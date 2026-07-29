@@ -1,0 +1,2732 @@
+2026-06-29 02:30:00 INFO  Steps - ========== Launching Chrome Browser ==========
+2026-06-29 02:30:02 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 02:30:02 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 02:30:02 INFO  Steps - Application opened successfully.
+2026-06-29 02:30:02 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 02:30:03 INFO  Steps - Entering Password
+2026-06-29 02:30:03 INFO  Steps - Clicking Login Button
+2026-06-29 02:30:06 INFO  Steps - Login Successful
+2026-06-29 02:30:06 INFO  Steps - Logging Out
+2026-06-29 02:30:10 INFO  Steps - No Alert Present
+2026-06-29 02:30:15 INFO  Steps - Logout Successful
+2026-06-29 02:30:15 INFO  Steps - Closing Browser
+2026-06-29 02:30:15 INFO  Steps - Browser Closed Successfully
+2026-06-29 02:30:15 INFO  Steps - ========== Launching Chrome Browser ==========
+2026-06-29 02:30:16 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 02:30:16 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 02:30:16 INFO  Steps - Application opened successfully.
+2026-06-29 02:30:16 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 02:30:17 INFO  Steps - Entering Password
+2026-06-29 02:30:17 INFO  Steps - Clicking Login Button
+2026-06-29 02:30:20 INFO  Steps - Login Successful
+2026-06-29 02:30:20 INFO  Steps - Logging Out
+2026-06-29 02:30:23 INFO  Steps - No Alert Present
+2026-06-29 02:30:28 INFO  Steps - Logout Successful
+2026-06-29 02:30:28 INFO  Steps - Closing Browser
+2026-06-29 02:30:29 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:06:15 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:06:18 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:06:18 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:06:19 INFO  Steps - Login Successful
+2026-06-29 04:06:19 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 04:06:19 INFO  Steps - Entering Password
+2026-06-29 04:06:20 INFO  Steps - Clicking Login Button
+2026-06-29 04:06:24 INFO  Steps - Login Successful
+2026-06-29 04:06:24 INFO  Steps - Opening Customer Menu
+2026-06-29 04:06:28 INFO  Steps - Customer Menu Opened
+2026-06-29 04:06:28 INFO  Steps - Opening Customer List
+2026-06-29 04:06:31 INFO  Steps - Clicking Add New Customer
+2026-06-29 04:06:35 INFO  Steps - Verifying Add Customer Page
+2026-06-29 04:06:35 INFO  Steps - Add Customer Page Verified
+2026-06-29 04:06:35 INFO  Steps - Entering Customer Information
+2026-06-29 04:06:35 INFO  Steps - Generated Email : sTQyR@gmail.com
+2026-06-29 04:06:39 INFO  Steps - Customer Details Entered Successfully
+2026-06-29 04:06:39 INFO  Steps - Saving Customer
+2026-06-29 04:06:44 INFO  Steps - Customer Saved
+2026-06-29 04:06:44 INFO  Steps - Verifying Customer Creation
+2026-06-29 04:06:44 INFO  Steps - Customer Added Successfully
+2026-06-29 04:06:44 INFO  Steps - Closing Browser
+2026-06-29 04:06:45 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:06:45 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:06:45 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:06:45 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:06:46 INFO  Steps - Login Successful
+2026-06-29 04:06:46 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 04:06:46 INFO  Steps - Entering Password
+2026-06-29 04:06:46 INFO  Steps - Clicking Login Button
+2026-06-29 04:06:50 INFO  Steps - Login Successful
+2026-06-29 04:06:50 INFO  Steps - Opening Customer Menu
+2026-06-29 04:06:53 INFO  Steps - Customer Menu Opened
+2026-06-29 04:06:53 INFO  Steps - Opening Customer List
+2026-06-29 04:06:56 INFO  Steps - Entering Customer Email
+2026-06-29 04:06:57 INFO  Steps - Searching Customer
+2026-06-29 04:07:00 INFO  Steps - Verifying Search Result
+2026-06-29 04:07:00 INFO  Steps - Customer Found Successfully
+2026-06-29 04:07:00 INFO  Steps - Closing Browser
+2026-06-29 04:07:00 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:07:00 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:07:01 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:07:01 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:07:01 INFO  Steps - Login Successful
+2026-06-29 04:07:01 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:07:01 INFO  Steps - Entering Password
+2026-06-29 04:07:01 INFO  Steps - Clicking Login Button
+2026-06-29 04:07:05 INFO  Steps - Login Successful
+2026-06-29 04:07:05 INFO  Steps - Opening Customer Menu
+2026-06-29 04:07:08 INFO  Steps - Customer Menu Opened
+2026-06-29 04:07:08 INFO  Steps - Opening Customer List
+2026-06-29 04:07:12 INFO  Steps - Searching Customer
+2026-06-29 04:07:15 INFO  Steps - Closing Browser
+2026-06-29 04:07:15 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:18:24 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:18:26 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:18:26 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:18:26 INFO  Steps - Login Successful
+2026-06-29 04:18:26 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 04:18:26 INFO  Steps - Entering Password
+2026-06-29 04:18:27 INFO  Steps - Clicking Login Button
+2026-06-29 04:18:30 INFO  Steps - Login Successful
+2026-06-29 04:18:30 INFO  Steps - Opening Customer Menu
+2026-06-29 04:18:33 INFO  Steps - Customer Menu Opened
+2026-06-29 04:18:33 INFO  Steps - Opening Customer List
+2026-06-29 04:18:37 INFO  Steps - Clicking Add New Customer
+2026-06-29 04:18:40 INFO  Steps - Verifying Add Customer Page
+2026-06-29 04:18:40 INFO  Steps - Add Customer Page Verified
+2026-06-29 04:18:40 INFO  Steps - Entering Customer Information
+2026-06-29 04:18:40 INFO  Steps - Generated Email : QyZLC@gmail.com
+2026-06-29 04:18:44 INFO  Steps - Customer Details Entered Successfully
+2026-06-29 04:18:44 INFO  Steps - Saving Customer
+2026-06-29 04:18:50 INFO  Steps - Customer Saved
+2026-06-29 04:18:50 INFO  Steps - Verifying Customer Creation
+2026-06-29 04:18:50 INFO  Steps - Customer Added Successfully
+2026-06-29 04:18:50 INFO  Steps - Closing Browser
+2026-06-29 04:18:50 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:18:50 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:18:51 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:18:51 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:18:51 INFO  Steps - Login Successful
+2026-06-29 04:18:51 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 04:18:52 INFO  Steps - Entering Password
+2026-06-29 04:18:52 INFO  Steps - Clicking Login Button
+2026-06-29 04:18:55 INFO  Steps - Login Successful
+2026-06-29 04:18:55 INFO  Steps - Opening Customer Menu
+2026-06-29 04:18:59 INFO  Steps - Customer Menu Opened
+2026-06-29 04:18:59 INFO  Steps - Opening Customer List
+2026-06-29 04:19:02 INFO  Steps - Entering Customer Email
+2026-06-29 04:19:02 INFO  Steps - Searching Customer
+2026-06-29 04:19:05 INFO  Steps - Verifying Search Result
+2026-06-29 04:19:05 INFO  Steps - Customer Found Successfully
+2026-06-29 04:19:05 INFO  Steps - Closing Browser
+2026-06-29 04:19:06 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:19:06 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:07 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:07 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:07 INFO  Steps - Login Successful
+2026-06-29 04:19:07 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:19:07 INFO  Steps - Entering Password
+2026-06-29 04:19:07 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:11 INFO  Steps - Login Successful
+2026-06-29 04:19:11 INFO  Steps - Opening Customer Menu
+2026-06-29 04:19:14 INFO  Steps - Customer Menu Opened
+2026-06-29 04:19:14 INFO  Steps - Opening Customer List
+2026-06-29 04:19:18 INFO  Steps - Searching Customer
+2026-06-29 04:19:21 INFO  Steps - Closing Browser
+2026-06-29 04:19:21 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:19:21 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:22 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:22 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:22 INFO  Steps - Login Successful
+2026-06-29 04:19:22 INFO  Steps - Entering Username : <email>
+2026-06-29 04:19:23 INFO  Steps - Entering Password
+2026-06-29 04:19:23 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:26 INFO  Steps - Login Successful
+2026-06-29 04:19:26 INFO  Steps - Logging Out
+2026-06-29 04:19:26 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:27 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:27 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:28 INFO  Steps - Login Successful
+2026-06-29 04:19:28 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:19:28 INFO  Steps - Entering Password
+2026-06-29 04:19:28 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:31 INFO  Steps - Login Successful
+2026-06-29 04:19:31 INFO  Steps - Login Successful
+2026-06-29 04:19:32 INFO  Steps - Closing Browser
+2026-06-29 04:19:32 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:19:32 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:33 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:33 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:33 INFO  Steps - Login Successful
+2026-06-29 04:19:33 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:19:34 INFO  Steps - Entering Password
+2026-06-29 04:19:34 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:37 INFO  Steps - Login Successful
+2026-06-29 04:19:37 INFO  Steps - Invalid Login Verified Successfully
+2026-06-29 04:19:37 INFO  Steps - Closing Browser
+2026-06-29 04:19:37 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:19:37 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:38 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:38 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:39 INFO  Steps - Login Successful
+2026-06-29 04:19:39 INFO  Steps - Entering Username : wrong@gmail.com
+2026-06-29 04:19:39 INFO  Steps - Entering Password
+2026-06-29 04:19:39 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:42 INFO  Steps - Login Successful
+2026-06-29 04:19:42 INFO  Steps - Invalid Login Verified Successfully
+2026-06-29 04:19:42 INFO  Steps - Closing Browser
+2026-06-29 04:19:43 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:19:43 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:44 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:44 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:44 INFO  Steps - Login Successful
+2026-06-29 04:19:44 INFO  Steps - Entering Username : 
+2026-06-29 04:19:44 INFO  Steps - Entering Password
+2026-06-29 04:19:44 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:47 INFO  Steps - Login Successful
+2026-06-29 04:19:48 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:19:49 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:19:49 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:19:49 INFO  Steps - Login Successful
+2026-06-29 04:19:49 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:19:49 INFO  Steps - Entering Password
+2026-06-29 04:19:49 INFO  Steps - Clicking Login Button
+2026-06-29 04:19:53 INFO  Steps - Login Successful
+2026-06-29 04:19:53 INFO  Steps - Invalid Login Verified Successfully
+2026-06-29 04:19:53 INFO  Steps - Closing Browser
+2026-06-29 04:19:53 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:23:06 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:23:09 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:23:09 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:23:11 INFO  Steps - Login Successful
+2026-06-29 04:23:11 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 04:23:12 INFO  Steps - Entering Password
+2026-06-29 04:23:12 INFO  Steps - Clicking Login Button
+2026-06-29 04:23:15 INFO  Steps - Login Successful
+2026-06-29 04:23:15 INFO  Steps - Opening Customer Menu
+2026-06-29 04:23:19 INFO  Steps - Customer Menu Opened
+2026-06-29 04:23:19 INFO  Steps - Opening Customer List
+2026-06-29 04:23:22 INFO  Steps - Clicking Add New Customer
+2026-06-29 04:23:26 INFO  Steps - Verifying Add Customer Page
+2026-06-29 04:23:26 INFO  Steps - Add Customer Page Verified
+2026-06-29 04:23:26 INFO  Steps - Entering Customer Information
+2026-06-29 04:23:26 INFO  Steps - Generated Email : TXrUa@gmail.com
+2026-06-29 04:23:30 INFO  Steps - Customer Details Entered Successfully
+2026-06-29 04:23:30 INFO  Steps - Saving Customer
+2026-06-29 04:23:37 INFO  Steps - Customer Saved
+2026-06-29 04:23:37 INFO  Steps - Verifying Customer Creation
+2026-06-29 04:23:37 INFO  Steps - Customer Added Successfully
+2026-06-29 04:23:37 INFO  Steps - Closing Browser
+2026-06-29 04:23:37 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:23:37 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:23:39 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:23:39 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:23:39 INFO  Steps - Login Successful
+2026-06-29 04:23:39 INFO  Steps - Entering Username : admin@yourstore.com
+2026-06-29 04:23:40 INFO  Steps - Entering Password
+2026-06-29 04:23:40 INFO  Steps - Clicking Login Button
+2026-06-29 04:23:43 INFO  Steps - Login Successful
+2026-06-29 04:23:43 INFO  Steps - Opening Customer Menu
+2026-06-29 04:23:47 INFO  Steps - Customer Menu Opened
+2026-06-29 04:23:47 INFO  Steps - Opening Customer List
+2026-06-29 04:23:50 INFO  Steps - Entering Customer Email
+2026-06-29 04:23:50 INFO  Steps - Searching Customer
+2026-06-29 04:23:53 INFO  Steps - Verifying Search Result
+2026-06-29 04:23:53 INFO  Steps - Customer Found Successfully
+2026-06-29 04:23:53 INFO  Steps - Closing Browser
+2026-06-29 04:23:54 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:23:54 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:23:56 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:23:56 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:23:56 INFO  Steps - Login Successful
+2026-06-29 04:23:56 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:23:57 INFO  Steps - Entering Password
+2026-06-29 04:23:57 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:00 INFO  Steps - Login Successful
+2026-06-29 04:24:00 INFO  Steps - Opening Customer Menu
+2026-06-29 04:24:04 INFO  Steps - Customer Menu Opened
+2026-06-29 04:24:04 INFO  Steps - Opening Customer List
+2026-06-29 04:24:08 INFO  Steps - Searching Customer
+2026-06-29 04:24:11 INFO  Steps - Closing Browser
+2026-06-29 04:24:12 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:24:12 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:24:13 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:24:13 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:24:14 INFO  Steps - Login Successful
+2026-06-29 04:24:14 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:24:14 INFO  Steps - Entering Password
+2026-06-29 04:24:15 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:18 INFO  Steps - Login Successful
+2026-06-29 04:24:18 INFO  Steps - Logging Out
+2026-06-29 04:24:21 INFO  Steps - No Alert Present
+2026-06-29 04:24:26 INFO  Steps - Logout Successful
+2026-06-29 04:24:26 INFO  Steps - Closing Browser
+2026-06-29 04:24:27 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:24:27 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:24:28 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:24:28 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:24:28 INFO  Steps - Login Successful
+2026-06-29 04:24:28 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:24:28 INFO  Steps - Entering Password
+2026-06-29 04:24:29 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:32 INFO  Steps - Login Successful
+2026-06-29 04:24:32 INFO  Steps - Login Successful
+2026-06-29 04:24:32 INFO  Steps - Closing Browser
+2026-06-29 04:24:32 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:24:32 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:24:33 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:24:33 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:24:34 INFO  Steps - Login Successful
+2026-06-29 04:24:34 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:24:34 INFO  Steps - Entering Password
+2026-06-29 04:24:34 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:37 INFO  Steps - Login Successful
+2026-06-29 04:24:37 INFO  Steps - Invalid Login Verified Successfully
+2026-06-29 04:24:37 INFO  Steps - Closing Browser
+2026-06-29 04:24:37 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:24:37 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:24:38 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:24:38 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:24:38 INFO  Steps - Login Successful
+2026-06-29 04:24:38 INFO  Steps - Entering Username : wrong@gmail.com
+2026-06-29 04:24:39 INFO  Steps - Entering Password
+2026-06-29 04:24:39 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:42 INFO  Steps - Login Successful
+2026-06-29 04:24:42 INFO  Steps - Invalid Login Verified Successfully
+2026-06-29 04:24:42 INFO  Steps - Closing Browser
+2026-06-29 04:24:42 INFO  Steps - Browser Closed Successfully
+2026-06-29 04:24:42 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:24:43 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:24:43 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:24:43 INFO  Steps - Login Successful
+2026-06-29 04:24:43 INFO  Steps - Entering Username : 
+2026-06-29 04:24:44 INFO  Steps - Entering Password
+2026-06-29 04:24:44 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:47 INFO  Steps - Login Successful
+2026-06-29 04:24:47 INFO  Steps - Launching Chrome Browser
+2026-06-29 04:24:48 INFO  Steps - Chrome Browser launched successfully.
+2026-06-29 04:24:48 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-06-29 04:24:49 INFO  Steps - Login Successful
+2026-06-29 04:24:49 INFO  Steps - Entering Username : admin@yourStore.com
+2026-06-29 04:24:49 INFO  Steps - Entering Password
+2026-06-29 04:24:49 INFO  Steps - Clicking Login Button
+2026-06-29 04:24:52 INFO  Steps - Login Successful
+2026-06-29 04:24:52 INFO  Steps - Invalid Login Verified Successfully
+2026-06-29 04:24:52 INFO  Steps - Closing Browser
+2026-06-29 04:24:52 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:52:28 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:52:31 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:52:31 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:52:33 INFO  Steps - Login Successful
+2026-07-01 19:52:33 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-01 19:52:33 INFO  Steps - Entering Password
+2026-07-01 19:52:33 INFO  Steps - Clicking Login Button
+2026-07-01 19:52:38 INFO  Steps - Login Successful
+2026-07-01 19:52:38 INFO  Steps - Opening Customer Menu
+2026-07-01 19:52:39 INFO  Steps - Customer Menu Opened
+2026-07-01 19:52:39 INFO  Steps - Opening Customer List
+2026-07-01 19:52:43 INFO  Steps - Clicking Add New Customer
+2026-07-01 19:52:46 INFO  Steps - Verifying Add Customer Page
+2026-07-01 19:52:46 INFO  Steps - Add Customer Page Verified
+2026-07-01 19:52:46 INFO  Steps - Entering Customer Information
+2026-07-01 19:52:46 INFO  Steps - Generated Email : vyuVd@gmail.com
+2026-07-01 19:52:50 INFO  Steps - Customer Details Entered Successfully
+2026-07-01 19:52:50 INFO  Steps - Saving Customer
+2026-07-01 19:52:51 INFO  Steps - Customer Saved
+2026-07-01 19:52:51 INFO  Steps - Verifying Customer Creation
+2026-07-01 19:52:51 INFO  Steps - Customer Added Successfully
+2026-07-01 19:52:51 INFO  Steps - Closing Browser
+2026-07-01 19:52:51 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:52:51 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:52:52 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:52:52 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:52:52 INFO  Steps - Login Successful
+2026-07-01 19:52:52 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-01 19:52:52 INFO  Steps - Entering Password
+2026-07-01 19:52:53 INFO  Steps - Clicking Login Button
+2026-07-01 19:52:56 INFO  Steps - Login Successful
+2026-07-01 19:52:56 INFO  Steps - Opening Customer Menu
+2026-07-01 19:52:56 INFO  Steps - Customer Menu Opened
+2026-07-01 19:52:56 INFO  Steps - Opening Customer List
+2026-07-01 19:53:00 INFO  Steps - Entering Customer Email
+2026-07-01 19:53:00 INFO  Steps - Searching Customer
+2026-07-01 19:53:03 INFO  Steps - Verifying Search Result
+2026-07-01 19:53:03 INFO  Steps - Customer Found Successfully
+2026-07-01 19:53:03 INFO  Steps - Closing Browser
+2026-07-01 19:53:03 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:03 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:04 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:04 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:04 INFO  Steps - Login Successful
+2026-07-01 19:53:04 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 19:53:05 INFO  Steps - Entering Password
+2026-07-01 19:53:05 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:08 INFO  Steps - Login Successful
+2026-07-01 19:53:08 INFO  Steps - Opening Customer Menu
+2026-07-01 19:53:08 INFO  Steps - Customer Menu Opened
+2026-07-01 19:53:08 INFO  Steps - Opening Customer List
+2026-07-01 19:53:12 INFO  Steps - Searching Customer
+2026-07-01 19:53:15 INFO  Steps - Closing Browser
+2026-07-01 19:53:16 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:16 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:16 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:16 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:17 INFO  Steps - Login Successful
+2026-07-01 19:53:17 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 19:53:17 INFO  Steps - Entering Password
+2026-07-01 19:53:17 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:20 INFO  Steps - Login Successful
+2026-07-01 19:53:20 INFO  Steps - Logging Out
+2026-07-01 19:53:24 INFO  Steps - No Alert Present
+2026-07-01 19:53:29 INFO  Steps - Logout Successful
+2026-07-01 19:53:29 INFO  Steps - Closing Browser
+2026-07-01 19:53:29 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:29 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:30 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:30 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:30 INFO  Steps - Login Successful
+2026-07-01 19:53:30 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 19:53:31 INFO  Steps - Entering Password
+2026-07-01 19:53:31 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:34 INFO  Steps - Login Successful
+2026-07-01 19:53:34 INFO  Steps - Login Successful
+2026-07-01 19:53:35 INFO  Steps - Closing Browser
+2026-07-01 19:53:35 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:35 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:36 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:36 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:36 INFO  Steps - Login Successful
+2026-07-01 19:53:36 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 19:53:36 INFO  Steps - Entering Password
+2026-07-01 19:53:36 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:40 INFO  Steps - Login Successful
+2026-07-01 19:53:40 INFO  Steps - Invalid Login Verified Successfully
+2026-07-01 19:53:40 INFO  Steps - Closing Browser
+2026-07-01 19:53:40 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:40 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:41 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:41 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:41 INFO  Steps - Login Successful
+2026-07-01 19:53:41 INFO  Steps - Entering Username : wrong@gmail.com
+2026-07-01 19:53:42 INFO  Steps - Entering Password
+2026-07-01 19:53:42 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:45 INFO  Steps - Login Successful
+2026-07-01 19:53:45 INFO  Steps - Invalid Login Verified Successfully
+2026-07-01 19:53:45 INFO  Steps - Closing Browser
+2026-07-01 19:53:45 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:45 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:46 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:46 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:46 INFO  Steps - Login Successful
+2026-07-01 19:53:46 INFO  Steps - Entering Username : 
+2026-07-01 19:53:47 INFO  Steps - Entering Password
+2026-07-01 19:53:47 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:50 INFO  Steps - Login Successful
+2026-07-01 19:53:50 INFO  Steps - Invalid Login Verified Successfully
+2026-07-01 19:53:50 INFO  Steps - Closing Browser
+2026-07-01 19:53:50 INFO  Steps - Browser Closed Successfully
+2026-07-01 19:53:50 INFO  Steps - Launching Chrome Browser
+2026-07-01 19:53:51 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 19:53:51 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 19:53:52 INFO  Steps - Login Successful
+2026-07-01 19:53:52 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 19:53:52 INFO  Steps - Entering Password
+2026-07-01 19:53:52 INFO  Steps - Clicking Login Button
+2026-07-01 19:53:55 INFO  Steps - Login Successful
+2026-07-01 19:53:55 INFO  Steps - Invalid Login Verified Successfully
+2026-07-01 19:53:55 INFO  Steps - Closing Browser
+2026-07-01 19:53:56 INFO  Steps - Browser Closed Successfully
+2026-07-01 20:05:55 INFO  Steps - Launching Chrome Browser
+2026-07-01 20:05:56 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 20:05:56 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 20:05:57 INFO  Steps - Login Successful
+2026-07-01 20:05:57 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-01 20:05:57 INFO  Steps - Entering Password
+2026-07-01 20:05:58 INFO  Steps - Clicking Login Button
+2026-07-01 20:06:01 INFO  Steps - Login Successful
+2026-07-01 20:06:01 INFO  Steps - Opening Customer Menu
+2026-07-01 20:06:21 INFO  Steps - Launching Chrome Browser
+2026-07-01 20:06:22 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 20:06:22 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 20:06:23 INFO  Steps - Login Successful
+2026-07-01 20:06:23 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-01 20:06:23 INFO  Steps - Entering Password
+2026-07-01 20:06:23 INFO  Steps - Clicking Login Button
+2026-07-01 20:06:26 INFO  Steps - Login Successful
+2026-07-01 20:06:26 INFO  Steps - Opening Customer Menu
+2026-07-01 20:06:47 INFO  Steps - Launching Chrome Browser
+2026-07-01 20:06:48 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 20:06:48 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 20:06:48 INFO  Steps - Login Successful
+2026-07-01 20:06:48 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 20:06:48 INFO  Steps - Entering Password
+2026-07-01 20:06:49 INFO  Steps - Clicking Login Button
+2026-07-01 20:06:52 INFO  Steps - Login Successful
+2026-07-01 20:06:52 INFO  Steps - Opening Customer Menu
+2026-07-01 20:22:41 INFO  Steps - Launching Chrome Browser
+2026-07-01 20:22:43 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 20:22:43 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 20:22:43 INFO  Steps - Login Successful
+2026-07-01 20:22:43 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-01 20:22:44 INFO  Steps - Entering Password
+2026-07-01 20:22:44 INFO  Steps - Clicking Login Button
+2026-07-01 20:22:47 INFO  Steps - Login Successful
+2026-07-01 20:22:47 INFO  Steps - Opening Customer Menu
+2026-07-01 20:22:48 INFO  Steps - Customer Menu Opened
+2026-07-01 20:22:48 INFO  Steps - Opening Customer List
+2026-07-01 20:22:51 INFO  Steps - Clicking Add New Customer
+2026-07-01 20:22:54 INFO  Steps - Verifying Add Customer Page
+2026-07-01 20:22:54 INFO  Steps - Add Customer Page Verified
+2026-07-01 20:22:54 INFO  Steps - Entering Customer Information
+2026-07-01 20:22:54 INFO  Steps - Generated Email : sSQrA@gmail.com
+2026-07-01 20:22:59 INFO  Steps - Customer Details Entered Successfully
+2026-07-01 20:22:59 INFO  Steps - Saving Customer
+2026-07-01 20:22:59 INFO  Steps - Customer Saved
+2026-07-01 20:22:59 INFO  Steps - Verifying Customer Creation
+2026-07-01 20:22:59 INFO  Steps - Customer Added Successfully
+2026-07-01 20:22:59 INFO  Steps - Closing Browser
+2026-07-01 20:22:59 INFO  Steps - Browser Closed Successfully
+2026-07-01 20:22:59 INFO  Steps - Launching Chrome Browser
+2026-07-01 20:23:00 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 20:23:00 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 20:23:01 INFO  Steps - Login Successful
+2026-07-01 20:23:01 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-01 20:23:01 INFO  Steps - Entering Password
+2026-07-01 20:23:01 INFO  Steps - Clicking Login Button
+2026-07-01 20:23:05 INFO  Steps - Login Successful
+2026-07-01 20:23:05 INFO  Steps - Opening Customer Menu
+2026-07-01 20:23:05 INFO  Steps - Customer Menu Opened
+2026-07-01 20:23:05 INFO  Steps - Opening Customer List
+2026-07-01 20:23:08 INFO  Steps - Entering Customer Email
+2026-07-01 20:23:09 INFO  Steps - Searching Customer
+2026-07-01 20:23:12 INFO  Steps - Verifying Search Result
+2026-07-01 20:23:12 INFO  Steps - Customer Found Successfully
+2026-07-01 20:23:12 INFO  Steps - Closing Browser
+2026-07-01 20:23:12 INFO  Steps - Browser Closed Successfully
+2026-07-01 20:23:12 INFO  Steps - Launching Chrome Browser
+2026-07-01 20:23:13 INFO  Steps - Chrome Browser launched successfully.
+2026-07-01 20:23:13 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-01 20:23:13 INFO  Steps - Login Successful
+2026-07-01 20:23:13 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-01 20:23:14 INFO  Steps - Entering Password
+2026-07-01 20:23:14 INFO  Steps - Clicking Login Button
+2026-07-01 20:23:17 INFO  Steps - Login Successful
+2026-07-01 20:23:17 INFO  Steps - Opening Customer Menu
+2026-07-01 20:23:18 INFO  Steps - Customer Menu Opened
+2026-07-01 20:23:18 INFO  Steps - Opening Customer List
+2026-07-01 20:23:21 INFO  Steps - Searching Customer
+2026-07-01 20:23:25 INFO  Steps - Closing Browser
+2026-07-01 20:23:25 INFO  Steps - Browser Closed Successfully
+2026-07-07 23:05:30 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:05:34 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:05:34 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:05:36 INFO  Steps - Login Successful
+2026-07-07 23:05:36 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:05:37 INFO  Steps - Entering Password
+2026-07-07 23:05:37 INFO  Steps - Clicking Login Button
+2026-07-07 23:05:40 INFO  Steps - Login Successful
+2026-07-07 23:05:40 INFO  Steps - Opening Customer Menu
+2026-07-07 23:05:42 INFO  Steps - Customer Menu Opened
+2026-07-07 23:05:42 INFO  Steps - Opening Customer List
+2026-07-07 23:05:45 INFO  Steps - Clicking Add New Customer
+2026-07-07 23:05:49 INFO  Steps - Verifying Add Customer Page
+2026-07-07 23:05:49 INFO  Steps - Add Customer Page Verified
+2026-07-07 23:05:49 INFO  Steps - Entering Customer Information
+2026-07-07 23:05:49 INFO  Steps - Generated Email : ngZfC@gmail.com
+2026-07-07 23:05:53 INFO  Steps - Customer Details Entered Successfully
+2026-07-07 23:05:53 INFO  Steps - Saving Customer
+2026-07-07 23:05:53 INFO  Steps - Customer Saved
+2026-07-07 23:05:53 INFO  Steps - Verifying Customer Creation
+2026-07-07 23:05:54 INFO  Steps - Customer Added Successfully
+2026-07-07 23:05:54 INFO  Steps - Closing Browser
+2026-07-07 23:05:54 INFO  Steps - Browser Closed Successfully
+2026-07-07 23:05:54 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:05:55 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:05:55 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:05:55 INFO  Steps - Login Successful
+2026-07-07 23:05:55 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:05:56 INFO  Steps - Entering Password
+2026-07-07 23:05:56 INFO  Steps - Clicking Login Button
+2026-07-07 23:06:00 INFO  Steps - Login Successful
+2026-07-07 23:06:00 INFO  Steps - Opening Customer Menu
+2026-07-07 23:06:00 INFO  Steps - Customer Menu Opened
+2026-07-07 23:06:00 INFO  Steps - Opening Customer List
+2026-07-07 23:06:03 INFO  Steps - Entering Customer Email
+2026-07-07 23:06:04 INFO  Steps - Searching Customer
+2026-07-07 23:06:07 INFO  Steps - Verifying Search Result
+2026-07-07 23:06:07 INFO  Steps - Customer Found Successfully
+2026-07-07 23:06:07 INFO  Steps - Closing Browser
+2026-07-07 23:06:07 INFO  Steps - Browser Closed Successfully
+2026-07-07 23:06:07 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:06:08 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:06:08 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:06:08 INFO  Steps - Login Successful
+2026-07-07 23:06:08 INFO  Steps - Entering Username : admin@yourStore.com
+2026-07-07 23:06:09 INFO  Steps - Entering Password
+2026-07-07 23:06:09 INFO  Steps - Clicking Login Button
+2026-07-07 23:06:13 INFO  Steps - Login Successful
+2026-07-07 23:06:13 INFO  Steps - Opening Customer Menu
+2026-07-07 23:06:13 INFO  Steps - Customer Menu Opened
+2026-07-07 23:06:13 INFO  Steps - Opening Customer List
+2026-07-07 23:06:17 INFO  Steps - Searching Customer
+2026-07-07 23:06:20 INFO  Steps - Closing Browser
+2026-07-07 23:06:21 INFO  Steps - Browser Closed Successfully
+2026-07-07 23:39:20 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:39:23 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:39:23 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:39:24 INFO  Steps - Login Successful
+2026-07-07 23:39:24 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:39:24 INFO  Steps - Entering Password
+2026-07-07 23:39:24 INFO  Steps - Clicking Login Button
+2026-07-07 23:39:28 INFO  Steps - Login Successful
+2026-07-07 23:39:28 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:39:28 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:39:28 INFO  Steps - Opening Products Page
+2026-07-07 23:39:30 INFO  Steps - Products Page Opened
+2026-07-07 23:39:30 INFO  Steps - Clicking Add New Product
+2026-07-07 23:39:34 INFO  Steps - Add Product Page Opening
+2026-07-07 23:39:34 INFO  Steps - Verifying Add Product Page
+2026-07-07 23:39:34 INFO  Steps - Add Product Page Verified
+2026-07-07 23:39:34 INFO  Steps - Closing Browser
+2026-07-07 23:39:34 INFO  Steps - Browser Closed Successfully
+2026-07-07 23:39:34 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:39:35 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:39:35 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:39:35 INFO  Steps - Login Successful
+2026-07-07 23:39:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:39:36 INFO  Steps - Entering Password
+2026-07-07 23:39:36 INFO  Steps - Clicking Login Button
+2026-07-07 23:39:39 INFO  Steps - Login Successful
+2026-07-07 23:39:39 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:39:39 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:39:39 INFO  Steps - Opening Products Page
+2026-07-07 23:39:40 INFO  Steps - Products Page Opened
+2026-07-07 23:39:40 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:39:41 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:39:41 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:39:42 INFO  Steps - Login Successful
+2026-07-07 23:39:42 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:39:42 INFO  Steps - Entering Password
+2026-07-07 23:39:42 INFO  Steps - Clicking Login Button
+2026-07-07 23:39:45 INFO  Steps - Login Successful
+2026-07-07 23:39:45 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:39:45 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:39:45 INFO  Steps - Opening Products Page
+2026-07-07 23:39:46 INFO  Steps - Products Page Opened
+2026-07-07 23:39:46 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:39:47 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:39:47 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:39:47 INFO  Steps - Login Successful
+2026-07-07 23:39:47 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:39:48 INFO  Steps - Entering Password
+2026-07-07 23:39:48 INFO  Steps - Clicking Login Button
+2026-07-07 23:39:51 INFO  Steps - Login Successful
+2026-07-07 23:39:51 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:39:51 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:39:51 INFO  Steps - Opening Products Page
+2026-07-07 23:39:52 INFO  Steps - Products Page Opened
+2026-07-07 23:48:26 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:48:28 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:48:28 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:48:28 INFO  Steps - Login Successful
+2026-07-07 23:48:28 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:48:28 INFO  Steps - Entering Password
+2026-07-07 23:48:29 INFO  Steps - Clicking Login Button
+2026-07-07 23:48:32 INFO  Steps - Login Successful
+2026-07-07 23:48:32 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:48:32 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:48:32 INFO  Steps - Opening Products Page
+2026-07-07 23:48:33 INFO  Steps - Products Page Opened
+2026-07-07 23:48:33 INFO  Steps - Clicking Add New Product
+2026-07-07 23:48:33 INFO  Steps - Add Product Page Opening
+2026-07-07 23:48:33 INFO  Steps - Verifying Add Product Page
+2026-07-07 23:48:33 INFO  Steps - Add Product Page Verified
+2026-07-07 23:48:33 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:48:34 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:48:34 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:48:35 INFO  Steps - Login Successful
+2026-07-07 23:48:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:48:35 INFO  Steps - Entering Password
+2026-07-07 23:48:35 INFO  Steps - Clicking Login Button
+2026-07-07 23:48:39 INFO  Steps - Login Successful
+2026-07-07 23:48:39 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:48:39 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:48:39 INFO  Steps - Opening Products Page
+2026-07-07 23:48:39 INFO  Steps - Products Page Opened
+2026-07-07 23:48:39 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:48:41 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:48:41 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:48:41 INFO  Steps - Login Successful
+2026-07-07 23:48:41 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:48:41 INFO  Steps - Entering Password
+2026-07-07 23:48:42 INFO  Steps - Clicking Login Button
+2026-07-07 23:48:45 INFO  Steps - Login Successful
+2026-07-07 23:48:45 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:48:45 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:48:45 INFO  Steps - Opening Products Page
+2026-07-07 23:48:46 INFO  Steps - Products Page Opened
+2026-07-07 23:48:46 INFO  Steps - Launching Chrome Browser
+2026-07-07 23:48:47 INFO  Steps - Chrome Browser launched successfully.
+2026-07-07 23:48:47 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-07 23:48:47 INFO  Steps - Login Successful
+2026-07-07 23:48:47 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-07 23:48:47 INFO  Steps - Entering Password
+2026-07-07 23:48:48 INFO  Steps - Clicking Login Button
+2026-07-07 23:48:51 INFO  Steps - Login Successful
+2026-07-07 23:48:51 INFO  Steps - Opening Catalog Menu
+2026-07-07 23:48:51 INFO  Steps - Catalog Menu Opened
+2026-07-07 23:48:51 INFO  Steps - Opening Products Page
+2026-07-07 23:48:51 INFO  Steps - Products Page Opened
+2026-07-11 21:31:29 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:31:33 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:31:33 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:31:35 INFO  Steps - Login Successful
+2026-07-11 21:31:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:31:35 INFO  Steps - Entering Password
+2026-07-11 21:31:35 INFO  Steps - Clicking Login Button
+2026-07-11 21:31:41 INFO  Steps - Login Successful
+2026-07-11 21:31:41 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:31:41 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:31:41 INFO  Steps - Opening Products Page
+2026-07-11 21:31:43 INFO  Steps - Products Page Opened
+2026-07-11 21:31:43 INFO  Steps - Clicking Add New Product
+2026-07-11 21:31:44 INFO  Steps - Add Product Page Opening
+2026-07-11 21:31:44 INFO  Steps - Verifying Add Product Page
+2026-07-11 21:31:44 INFO  Steps - Add Product Page Verified
+2026-07-11 21:31:44 INFO  Steps - Entering Product Details
+2026-07-11 21:31:46 INFO  Steps - Saving Product
+2026-07-11 21:31:48 INFO  Steps - Verifying Product Creation
+2026-07-11 21:31:49 INFO  Steps - Product Added Successfully
+2026-07-11 21:31:49 INFO  Steps - Closing Browser
+2026-07-11 21:31:49 INFO  Steps - Browser Closed Successfully
+2026-07-11 21:31:49 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:31:50 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:31:50 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:31:51 INFO  Steps - Login Successful
+2026-07-11 21:31:51 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:31:52 INFO  Steps - Entering Password
+2026-07-11 21:31:52 INFO  Steps - Clicking Login Button
+2026-07-11 21:31:55 INFO  Steps - Login Successful
+2026-07-11 21:31:55 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:31:56 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:31:56 INFO  Steps - Opening Products Page
+2026-07-11 21:31:56 INFO  Steps - Products Page Opened
+2026-07-11 21:31:57 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:31:58 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:31:58 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:31:59 INFO  Steps - Login Successful
+2026-07-11 21:31:59 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:32:00 INFO  Steps - Entering Password
+2026-07-11 21:32:00 INFO  Steps - Clicking Login Button
+2026-07-11 21:32:07 INFO  Steps - Login Successful
+2026-07-11 21:32:07 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:32:07 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:32:07 INFO  Steps - Opening Products Page
+2026-07-11 21:32:08 INFO  Steps - Products Page Opened
+2026-07-11 21:32:08 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:32:09 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:32:09 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:32:10 INFO  Steps - Login Successful
+2026-07-11 21:32:10 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:32:11 INFO  Steps - Entering Password
+2026-07-11 21:32:11 INFO  Steps - Clicking Login Button
+2026-07-11 21:32:15 INFO  Steps - Login Successful
+2026-07-11 21:32:15 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:32:15 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:32:15 INFO  Steps - Opening Products Page
+2026-07-11 21:32:16 INFO  Steps - Products Page Opened
+2026-07-11 21:54:06 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:54:08 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:54:08 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:54:09 INFO  Steps - Login Successful
+2026-07-11 21:54:09 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:54:09 INFO  Steps - Entering Password
+2026-07-11 21:54:09 INFO  Steps - Clicking Login Button
+2026-07-11 21:54:13 INFO  Steps - Login Successful
+2026-07-11 21:54:13 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:54:13 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:54:13 INFO  Steps - Opening Products Page
+2026-07-11 21:54:13 INFO  Steps - Products Page Opened
+2026-07-11 21:54:13 INFO  Steps - Clicking Add New Product
+2026-07-11 21:54:14 INFO  Steps - Add Product Page Opening
+2026-07-11 21:54:14 INFO  Steps - Verifying Add Product Page
+2026-07-11 21:54:14 INFO  Steps - Add Product Page Verified
+2026-07-11 21:54:14 INFO  Steps - Entering Product Details
+2026-07-11 21:54:14 INFO  Steps - Generated Product Name : Automation Product TDdZO
+2026-07-11 21:54:15 INFO  Steps - Saving Product
+2026-07-11 21:54:15 INFO  Steps - Verifying Product Creation
+2026-07-11 21:54:16 INFO  Steps - Product Added Successfully
+2026-07-11 21:54:16 INFO  Steps - Closing Browser
+2026-07-11 21:54:16 INFO  Steps - Browser Closed Successfully
+2026-07-11 21:54:16 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:54:17 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:54:17 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:54:17 INFO  Steps - Login Successful
+2026-07-11 21:54:17 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:54:17 INFO  Steps - Entering Password
+2026-07-11 21:54:18 INFO  Steps - Clicking Login Button
+2026-07-11 21:54:21 INFO  Steps - Login Successful
+2026-07-11 21:54:21 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:54:21 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:54:21 INFO  Steps - Opening Products Page
+2026-07-11 21:54:21 INFO  Steps - Products Page Opened
+2026-07-11 21:54:22 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:54:23 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:54:23 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:54:23 INFO  Steps - Login Successful
+2026-07-11 21:54:23 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:54:23 INFO  Steps - Entering Password
+2026-07-11 21:54:24 INFO  Steps - Clicking Login Button
+2026-07-11 21:54:27 INFO  Steps - Login Successful
+2026-07-11 21:54:27 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:54:27 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:54:27 INFO  Steps - Opening Products Page
+2026-07-11 21:54:27 INFO  Steps - Products Page Opened
+2026-07-11 21:54:27 INFO  Steps - Searching Product
+2026-07-11 21:54:27 INFO  Steps - Searching Product : Automation Product TDdZO
+2026-07-11 21:54:28 INFO  Steps - Opening Product
+2026-07-11 21:54:29 INFO  Steps - Launching Chrome Browser
+2026-07-11 21:54:30 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 21:54:30 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 21:54:30 INFO  Steps - Login Successful
+2026-07-11 21:54:30 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 21:54:30 INFO  Steps - Entering Password
+2026-07-11 21:54:30 INFO  Steps - Clicking Login Button
+2026-07-11 21:54:34 INFO  Steps - Login Successful
+2026-07-11 21:54:34 INFO  Steps - Opening Catalog Menu
+2026-07-11 21:54:34 INFO  Steps - Catalog Menu Opened
+2026-07-11 21:54:34 INFO  Steps - Opening Products Page
+2026-07-11 21:54:35 INFO  Steps - Products Page Opened
+2026-07-11 21:54:35 INFO  Steps - Searching Product
+2026-07-11 21:54:35 INFO  Steps - Searching Product : Automation Product TDdZO
+2026-07-11 22:01:26 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:01:27 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:01:27 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:01:28 INFO  Steps - Login Successful
+2026-07-11 22:01:28 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:01:28 INFO  Steps - Entering Password
+2026-07-11 22:01:28 INFO  Steps - Clicking Login Button
+2026-07-11 22:01:31 INFO  Steps - Login Successful
+2026-07-11 22:01:31 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:01:31 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:01:31 INFO  Steps - Opening Products Page
+2026-07-11 22:01:32 INFO  Steps - Products Page Opened
+2026-07-11 22:01:32 INFO  Steps - Clicking Add New Product
+2026-07-11 22:01:33 INFO  Steps - Add Product Page Opening
+2026-07-11 22:01:33 INFO  Steps - Verifying Add Product Page
+2026-07-11 22:01:33 INFO  Steps - Add Product Page Verified
+2026-07-11 22:01:33 INFO  Steps - Entering Product Details
+2026-07-11 22:01:33 INFO  Steps - Generated Product Name : Automation Product RzpJF
+2026-07-11 22:01:33 INFO  Steps - Saving Product
+2026-07-11 22:01:34 INFO  Steps - Verifying Product Creation
+2026-07-11 22:01:34 INFO  Steps - Product Added Successfully
+2026-07-11 22:01:34 INFO  Steps - Closing Browser
+2026-07-11 22:01:34 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:01:34 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:01:35 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:01:35 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:01:35 INFO  Steps - Login Successful
+2026-07-11 22:01:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:01:36 INFO  Steps - Entering Password
+2026-07-11 22:01:36 INFO  Steps - Clicking Login Button
+2026-07-11 22:01:39 INFO  Steps - Login Successful
+2026-07-11 22:01:39 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:01:39 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:01:39 INFO  Steps - Opening Products Page
+2026-07-11 22:01:39 INFO  Steps - Products Page Opened
+2026-07-11 22:01:40 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:01:40 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:01:40 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:01:41 INFO  Steps - Login Successful
+2026-07-11 22:01:41 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:01:41 INFO  Steps - Entering Password
+2026-07-11 22:01:41 INFO  Steps - Clicking Login Button
+2026-07-11 22:01:44 INFO  Steps - Login Successful
+2026-07-11 22:01:44 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:01:45 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:01:45 INFO  Steps - Opening Products Page
+2026-07-11 22:01:46 INFO  Steps - Products Page Opened
+2026-07-11 22:01:46 INFO  Steps - Searching Product
+2026-07-11 22:01:46 INFO  Steps - Searching Product : Automation Product RzpJF
+2026-07-11 22:01:48 INFO  Steps - Opening Product
+2026-07-11 22:01:50 INFO  Steps - Updating Product
+2026-07-11 22:01:51 INFO  Steps - Closing Browser
+2026-07-11 22:01:51 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:01:51 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:01:52 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:01:52 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:01:53 INFO  Steps - Login Successful
+2026-07-11 22:01:53 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:01:53 INFO  Steps - Entering Password
+2026-07-11 22:01:53 INFO  Steps - Clicking Login Button
+2026-07-11 22:01:57 INFO  Steps - Login Successful
+2026-07-11 22:01:57 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:01:57 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:01:57 INFO  Steps - Opening Products Page
+2026-07-11 22:01:57 INFO  Steps - Products Page Opened
+2026-07-11 22:01:57 INFO  Steps - Searching Product
+2026-07-11 22:01:57 INFO  Steps - Searching Product : Automation Product RzpJF Updated
+2026-07-11 22:26:33 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:26:34 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:26:35 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:26:35 INFO  Steps - Login Successful
+2026-07-11 22:26:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:26:35 INFO  Steps - Entering Password
+2026-07-11 22:26:36 INFO  Steps - Clicking Login Button
+2026-07-11 22:26:39 INFO  Steps - Login Successful
+2026-07-11 22:26:39 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:26:39 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:26:39 INFO  Steps - Opening Products Page
+2026-07-11 22:26:40 INFO  Steps - Products Page Opened
+2026-07-11 22:26:40 INFO  Steps - Searching Product
+2026-07-11 22:26:40 INFO  Steps - Searching Product : null
+2026-07-11 22:28:40 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:28:42 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:28:42 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:28:42 INFO  Steps - Login Successful
+2026-07-11 22:28:42 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:28:43 INFO  Steps - Entering Password
+2026-07-11 22:28:43 INFO  Steps - Clicking Login Button
+2026-07-11 22:28:47 INFO  Steps - Login Successful
+2026-07-11 22:28:47 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:28:47 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:28:47 INFO  Steps - Opening Products Page
+2026-07-11 22:28:47 INFO  Steps - Products Page Opened
+2026-07-11 22:28:47 INFO  Steps - Clicking Add New Product
+2026-07-11 22:28:48 INFO  Steps - Add Product Page Opening
+2026-07-11 22:28:48 INFO  Steps - Verifying Add Product Page
+2026-07-11 22:28:48 INFO  Steps - Add Product Page Verified
+2026-07-11 22:28:48 INFO  Steps - Entering Product Details
+2026-07-11 22:28:48 INFO  Steps - Generated Product Name : Automation Product CTRwK
+2026-07-11 22:28:49 INFO  Steps - Saving Product
+2026-07-11 22:28:49 INFO  Steps - Verifying Product Creation
+2026-07-11 22:28:50 INFO  Steps - Product Added Successfully
+2026-07-11 22:28:50 INFO  Steps - Closing Browser
+2026-07-11 22:28:50 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:28:50 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:28:51 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:28:51 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:28:51 INFO  Steps - Login Successful
+2026-07-11 22:28:51 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:28:51 INFO  Steps - Entering Password
+2026-07-11 22:28:52 INFO  Steps - Clicking Login Button
+2026-07-11 22:28:55 INFO  Steps - Login Successful
+2026-07-11 22:28:55 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:28:55 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:28:55 INFO  Steps - Opening Products Page
+2026-07-11 22:28:56 INFO  Steps - Products Page Opened
+2026-07-11 22:28:56 INFO  Steps - Searching Product
+2026-07-11 22:28:56 INFO  Steps - Searching Product : Automation Product CTRwK
+2026-07-11 22:28:58 INFO  Steps - Product found successfully.
+2026-07-11 22:28:58 INFO  Steps - Closing Browser
+2026-07-11 22:28:58 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:28:58 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:28:59 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:28:59 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:29:00 INFO  Steps - Login Successful
+2026-07-11 22:29:00 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:29:00 INFO  Steps - Entering Password
+2026-07-11 22:29:00 INFO  Steps - Clicking Login Button
+2026-07-11 22:29:03 INFO  Steps - Login Successful
+2026-07-11 22:29:03 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:29:03 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:29:03 INFO  Steps - Opening Products Page
+2026-07-11 22:29:04 INFO  Steps - Products Page Opened
+2026-07-11 22:29:04 INFO  Steps - Searching Product
+2026-07-11 22:29:04 INFO  Steps - Searching Product : Automation Product CTRwK
+2026-07-11 22:29:06 INFO  Steps - Opening Product
+2026-07-11 22:29:07 INFO  Steps - Updating Product
+2026-07-11 22:29:08 INFO  Steps - Closing Browser
+2026-07-11 22:29:08 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:29:08 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:29:09 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:29:09 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:29:10 INFO  Steps - Login Successful
+2026-07-11 22:29:10 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:29:10 INFO  Steps - Entering Password
+2026-07-11 22:29:10 INFO  Steps - Clicking Login Button
+2026-07-11 22:29:13 INFO  Steps - Login Successful
+2026-07-11 22:29:13 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:29:14 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:29:14 INFO  Steps - Opening Products Page
+2026-07-11 22:29:14 INFO  Steps - Products Page Opened
+2026-07-11 22:29:14 INFO  Steps - Searching Product
+2026-07-11 22:29:14 INFO  Steps - Searching Product : Automation Product CTRwK Updated
+2026-07-11 22:45:10 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:45:13 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:45:13 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:45:15 INFO  Steps - Login Successful
+2026-07-11 22:45:15 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:45:16 INFO  Steps - Entering Password
+2026-07-11 22:45:16 INFO  Steps - Clicking Login Button
+2026-07-11 22:45:20 INFO  Steps - Login Successful
+2026-07-11 22:45:20 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:45:20 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:45:20 INFO  Steps - Opening Products Page
+2026-07-11 22:45:21 INFO  Steps - Products Page Opened
+2026-07-11 22:45:21 INFO  Steps - Clicking Add New Product
+2026-07-11 22:45:22 INFO  Steps - Add Product Page Opening
+2026-07-11 22:45:22 INFO  Steps - Verifying Add Product Page
+2026-07-11 22:45:22 INFO  Steps - Add Product Page Verified
+2026-07-11 22:45:22 INFO  Steps - Entering Product Details
+2026-07-11 22:45:22 INFO  Steps - Generated Product Name : Automation Product MzYQa
+2026-07-11 22:45:23 INFO  Steps - Saving Product
+2026-07-11 22:45:23 INFO  Steps - Verifying Product Creation
+2026-07-11 22:45:23 INFO  Steps - Product Added Successfully
+2026-07-11 22:45:23 INFO  Steps - Closing Browser
+2026-07-11 22:45:24 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:45:24 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:45:24 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:45:25 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:45:25 INFO  Steps - Login Successful
+2026-07-11 22:45:25 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:45:25 INFO  Steps - Entering Password
+2026-07-11 22:45:25 INFO  Steps - Clicking Login Button
+2026-07-11 22:45:29 INFO  Steps - Login Successful
+2026-07-11 22:45:29 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:45:29 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:45:29 INFO  Steps - Opening Products Page
+2026-07-11 22:45:29 INFO  Steps - Products Page Opened
+2026-07-11 22:45:29 INFO  Steps - Searching Product
+2026-07-11 22:45:29 INFO  Steps - Searching Product : Automation Product MzYQa
+2026-07-11 22:45:32 INFO  Steps - Product found successfully.
+2026-07-11 22:45:32 INFO  Steps - Closing Browser
+2026-07-11 22:45:32 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:45:32 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:45:33 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:45:33 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:45:33 INFO  Steps - Login Successful
+2026-07-11 22:45:33 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:45:33 INFO  Steps - Entering Password
+2026-07-11 22:45:33 INFO  Steps - Clicking Login Button
+2026-07-11 22:45:37 INFO  Steps - Login Successful
+2026-07-11 22:45:37 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:45:37 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:45:37 INFO  Steps - Opening Products Page
+2026-07-11 22:45:37 INFO  Steps - Products Page Opened
+2026-07-11 22:45:37 INFO  Steps - Searching Product
+2026-07-11 22:45:37 INFO  Steps - Searching Product : Automation Product MzYQa
+2026-07-11 22:45:40 INFO  Steps - Opening Product
+2026-07-11 22:45:40 INFO  Steps - Updating Product
+2026-07-11 22:45:41 INFO  Steps - Closing Browser
+2026-07-11 22:45:42 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:45:42 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:45:42 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:45:42 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:45:43 INFO  Steps - Login Successful
+2026-07-11 22:45:43 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:45:43 INFO  Steps - Entering Password
+2026-07-11 22:45:43 INFO  Steps - Clicking Login Button
+2026-07-11 22:45:47 INFO  Steps - Login Successful
+2026-07-11 22:45:47 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:45:47 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:45:47 INFO  Steps - Opening Products Page
+2026-07-11 22:45:47 INFO  Steps - Products Page Opened
+2026-07-11 22:45:47 INFO  Steps - Searching Product
+2026-07-11 22:45:47 INFO  Steps - Searching Product : Automation Product MzYQa Updated
+2026-07-11 22:45:50 INFO  Steps - Selecting Product
+2026-07-11 22:45:50 INFO  Steps - Clicking Delete Selected
+2026-07-11 22:45:50 INFO  Steps - Confirming Delete
+2026-07-11 22:52:21 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:52:23 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:52:23 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:52:24 INFO  Steps - Login Successful
+2026-07-11 22:52:24 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:52:24 INFO  Steps - Entering Password
+2026-07-11 22:52:24 INFO  Steps - Clicking Login Button
+2026-07-11 22:52:28 INFO  Steps - Login Successful
+2026-07-11 22:52:28 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:52:28 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:52:28 INFO  Steps - Opening Products Page
+2026-07-11 22:52:28 INFO  Steps - Products Page Opened
+2026-07-11 22:52:28 INFO  Steps - Clicking Add New Product
+2026-07-11 22:52:29 INFO  Steps - Add Product Page Opening
+2026-07-11 22:52:29 INFO  Steps - Verifying Add Product Page
+2026-07-11 22:52:29 INFO  Steps - Add Product Page Verified
+2026-07-11 22:52:29 INFO  Steps - Entering Product Details
+2026-07-11 22:52:29 INFO  Steps - Generated Product Name : Automation Product vyLTz
+2026-07-11 22:52:30 INFO  Steps - Saving Product
+2026-07-11 22:52:31 INFO  Steps - Verifying Product Creation
+2026-07-11 22:52:31 INFO  Steps - Product Added Successfully
+2026-07-11 22:52:31 INFO  Steps - Closing Browser
+2026-07-11 22:52:31 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:52:31 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:52:32 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:52:32 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:52:32 INFO  Steps - Login Successful
+2026-07-11 22:52:32 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:52:33 INFO  Steps - Entering Password
+2026-07-11 22:52:33 INFO  Steps - Clicking Login Button
+2026-07-11 22:52:36 INFO  Steps - Login Successful
+2026-07-11 22:52:36 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:52:36 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:52:36 INFO  Steps - Opening Products Page
+2026-07-11 22:52:37 INFO  Steps - Products Page Opened
+2026-07-11 22:52:37 INFO  Steps - Searching Product
+2026-07-11 22:52:37 INFO  Steps - Searching Product : Automation Product vyLTz
+2026-07-11 22:52:39 INFO  Steps - Product found successfully.
+2026-07-11 22:52:39 INFO  Steps - Closing Browser
+2026-07-11 22:52:40 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:52:40 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:52:41 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:52:41 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:52:41 INFO  Steps - Login Successful
+2026-07-11 22:52:41 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:52:41 INFO  Steps - Entering Password
+2026-07-11 22:52:41 INFO  Steps - Clicking Login Button
+2026-07-11 22:52:44 INFO  Steps - Login Successful
+2026-07-11 22:52:44 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:52:45 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:52:45 INFO  Steps - Opening Products Page
+2026-07-11 22:52:45 INFO  Steps - Products Page Opened
+2026-07-11 22:52:45 INFO  Steps - Searching Product
+2026-07-11 22:52:45 INFO  Steps - Searching Product : Automation Product vyLTz
+2026-07-11 22:52:48 INFO  Steps - Opening Product
+2026-07-11 22:52:48 INFO  Steps - Updating Product
+2026-07-11 22:52:49 INFO  Steps - Closing Browser
+2026-07-11 22:52:50 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:52:50 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:52:50 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:52:50 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:52:51 INFO  Steps - Login Successful
+2026-07-11 22:52:51 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:52:51 INFO  Steps - Entering Password
+2026-07-11 22:52:51 INFO  Steps - Clicking Login Button
+2026-07-11 22:52:55 INFO  Steps - Login Successful
+2026-07-11 22:52:55 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:52:55 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:52:55 INFO  Steps - Opening Products Page
+2026-07-11 22:52:55 INFO  Steps - Products Page Opened
+2026-07-11 22:52:55 INFO  Steps - Searching Product
+2026-07-11 22:52:55 INFO  Steps - Searching Product : Automation Product vyLTz Updated
+2026-07-11 22:52:58 INFO  Steps - Selecting Product
+2026-07-11 22:52:58 INFO  Steps - Clicking Delete Selected
+2026-07-11 22:52:58 INFO  Steps - Confirming Delete
+2026-07-11 22:55:41 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:55:42 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:55:42 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:55:43 INFO  Steps - Login Successful
+2026-07-11 22:55:43 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:55:43 INFO  Steps - Entering Password
+2026-07-11 22:55:44 INFO  Steps - Clicking Login Button
+2026-07-11 22:55:47 INFO  Steps - Login Successful
+2026-07-11 22:55:47 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:55:47 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:55:47 INFO  Steps - Opening Products Page
+2026-07-11 22:55:48 INFO  Steps - Products Page Opened
+2026-07-11 22:55:48 INFO  Steps - Clicking Add New Product
+2026-07-11 22:55:48 INFO  Steps - Add Product Page Opening
+2026-07-11 22:55:48 INFO  Steps - Verifying Add Product Page
+2026-07-11 22:55:48 INFO  Steps - Add Product Page Verified
+2026-07-11 22:55:48 INFO  Steps - Entering Product Details
+2026-07-11 22:55:48 INFO  Steps - Generated Product Name : Automation Product CrnUv
+2026-07-11 22:55:49 INFO  Steps - Saving Product
+2026-07-11 22:55:50 INFO  Steps - Verifying Product Creation
+2026-07-11 22:55:50 INFO  Steps - Product Added Successfully
+2026-07-11 22:55:50 INFO  Steps - Closing Browser
+2026-07-11 22:55:50 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:55:50 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:55:51 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:55:51 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:55:52 INFO  Steps - Login Successful
+2026-07-11 22:55:52 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:55:52 INFO  Steps - Entering Password
+2026-07-11 22:55:52 INFO  Steps - Clicking Login Button
+2026-07-11 22:55:55 INFO  Steps - Login Successful
+2026-07-11 22:55:55 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:55:56 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:55:56 INFO  Steps - Opening Products Page
+2026-07-11 22:55:56 INFO  Steps - Products Page Opened
+2026-07-11 22:55:56 INFO  Steps - Searching Product
+2026-07-11 22:55:56 INFO  Steps - Searching Product : Automation Product CrnUv
+2026-07-11 22:55:59 INFO  Steps - Product found successfully.
+2026-07-11 22:55:59 INFO  Steps - Closing Browser
+2026-07-11 22:55:59 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:55:59 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:56:00 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:56:00 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:56:00 INFO  Steps - Login Successful
+2026-07-11 22:56:00 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:56:00 INFO  Steps - Entering Password
+2026-07-11 22:56:00 INFO  Steps - Clicking Login Button
+2026-07-11 22:56:04 INFO  Steps - Login Successful
+2026-07-11 22:56:04 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:56:04 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:56:04 INFO  Steps - Opening Products Page
+2026-07-11 22:56:04 INFO  Steps - Products Page Opened
+2026-07-11 22:56:04 INFO  Steps - Searching Product
+2026-07-11 22:56:04 INFO  Steps - Searching Product : Automation Product CrnUv
+2026-07-11 22:56:07 INFO  Steps - Opening Product
+2026-07-11 22:56:08 INFO  Steps - Updating Product
+2026-07-11 22:56:08 INFO  Steps - Closing Browser
+2026-07-11 22:56:09 INFO  Steps - Browser Closed Successfully
+2026-07-11 22:56:09 INFO  Steps - Launching Chrome Browser
+2026-07-11 22:56:09 INFO  Steps - Chrome Browser launched successfully.
+2026-07-11 22:56:09 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-11 22:56:10 INFO  Steps - Login Successful
+2026-07-11 22:56:10 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-11 22:56:10 INFO  Steps - Entering Password
+2026-07-11 22:56:10 INFO  Steps - Clicking Login Button
+2026-07-11 22:56:14 INFO  Steps - Login Successful
+2026-07-11 22:56:14 INFO  Steps - Opening Catalog Menu
+2026-07-11 22:56:14 INFO  Steps - Catalog Menu Opened
+2026-07-11 22:56:14 INFO  Steps - Opening Products Page
+2026-07-11 22:56:14 INFO  Steps - Products Page Opened
+2026-07-11 22:56:14 INFO  Steps - Searching Product
+2026-07-11 22:56:14 INFO  Steps - Searching Product : Automation Product CrnUv Updated
+2026-07-11 22:56:17 INFO  Steps - Selecting Product
+2026-07-11 22:56:17 INFO  Steps - Clicking Delete Selected
+2026-07-11 22:56:17 INFO  Steps - Confirming Delete
+2026-07-11 22:56:20 INFO  Steps - Product deleted successfully
+2026-07-11 22:56:20 INFO  Steps - Closing Browser
+2026-07-11 22:56:21 INFO  Steps - Browser Closed Successfully
+2026-07-14 22:36:30 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:36:36 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:36:36 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:37:03 INFO  Steps - Login Successful
+2026-07-14 22:37:03 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:37:04 INFO  Steps - Entering Password
+2026-07-14 22:37:04 INFO  Steps - Clicking Login Button
+2026-07-14 22:37:40 INFO  Steps - Login Successful
+2026-07-14 22:37:40 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:37:40 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:37:40 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:37:42 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:37:42 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:37:44 INFO  Steps - Login Successful
+2026-07-14 22:37:44 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:37:44 INFO  Steps - Entering Password
+2026-07-14 22:37:44 INFO  Steps - Clicking Login Button
+2026-07-14 22:37:50 INFO  Steps - Login Successful
+2026-07-14 22:37:50 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:37:51 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:37:51 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:37:52 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:37:52 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:37:53 INFO  Steps - Login Successful
+2026-07-14 22:37:53 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:37:54 INFO  Steps - Entering Password
+2026-07-14 22:37:54 INFO  Steps - Clicking Login Button
+2026-07-14 22:37:57 INFO  Steps - Login Successful
+2026-07-14 22:37:57 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:37:58 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:37:58 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:37:59 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:37:59 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:38:00 INFO  Steps - Login Successful
+2026-07-14 22:38:00 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:38:01 INFO  Steps - Entering Password
+2026-07-14 22:38:01 INFO  Steps - Clicking Login Button
+2026-07-14 22:38:05 INFO  Steps - Login Successful
+2026-07-14 22:38:05 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:38:05 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:50:37 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:50:41 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:50:41 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:50:42 INFO  Steps - Login Successful
+2026-07-14 22:50:42 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:50:43 INFO  Steps - Entering Password
+2026-07-14 22:50:43 INFO  Steps - Clicking Login Button
+2026-07-14 22:50:47 INFO  Steps - Login Successful
+2026-07-14 22:50:47 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:50:47 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:50:47 INFO  Steps - Opening Categories Page
+2026-07-14 22:50:48 INFO  Steps - Categories Page Opened
+2026-07-14 22:50:49 INFO  Steps - Generated Category : Automation Category ptzqM
+2026-07-14 22:50:51 INFO  Steps - Closing Browser
+2026-07-14 22:50:51 INFO  Steps - Browser Closed Successfully
+2026-07-14 22:50:51 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:50:52 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:50:52 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:50:53 INFO  Steps - Login Successful
+2026-07-14 22:50:53 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:50:53 INFO  Steps - Entering Password
+2026-07-14 22:50:54 INFO  Steps - Clicking Login Button
+2026-07-14 22:50:59 INFO  Steps - Login Successful
+2026-07-14 22:50:59 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:50:59 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:50:59 INFO  Steps - Opening Categories Page
+2026-07-14 22:51:00 INFO  Steps - Categories Page Opened
+2026-07-14 22:51:03 INFO  Steps - Closing Browser
+2026-07-14 22:51:03 INFO  Steps - Browser Closed Successfully
+2026-07-14 22:51:03 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:51:04 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:51:04 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:51:05 INFO  Steps - Login Successful
+2026-07-14 22:51:05 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:51:06 INFO  Steps - Entering Password
+2026-07-14 22:51:06 INFO  Steps - Clicking Login Button
+2026-07-14 22:51:10 INFO  Steps - Login Successful
+2026-07-14 22:51:10 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:51:10 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:51:10 INFO  Steps - Opening Categories Page
+2026-07-14 22:51:11 INFO  Steps - Categories Page Opened
+2026-07-14 22:51:15 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:51:17 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:51:17 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:51:18 INFO  Steps - Login Successful
+2026-07-14 22:51:18 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:51:18 INFO  Steps - Entering Password
+2026-07-14 22:51:19 INFO  Steps - Clicking Login Button
+2026-07-14 22:51:22 INFO  Steps - Login Successful
+2026-07-14 22:51:22 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:51:22 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:51:22 INFO  Steps - Opening Categories Page
+2026-07-14 22:51:23 INFO  Steps - Categories Page Opened
+2026-07-14 22:55:48 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:55:50 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:55:50 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:55:51 INFO  Steps - Login Successful
+2026-07-14 22:55:51 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:55:52 INFO  Steps - Entering Password
+2026-07-14 22:55:52 INFO  Steps - Clicking Login Button
+2026-07-14 22:55:56 INFO  Steps - Login Successful
+2026-07-14 22:55:56 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:55:56 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:55:56 INFO  Steps - Opening Categories Page
+2026-07-14 22:55:56 INFO  Steps - Categories Page Opened
+2026-07-14 22:55:57 INFO  Steps - Generated Category : Automation Category IsdSV
+2026-07-14 22:55:58 INFO  Steps - Closing Browser
+2026-07-14 22:55:59 INFO  Steps - Browser Closed Successfully
+2026-07-14 22:55:59 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:56:00 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:56:00 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:56:01 INFO  Steps - Login Successful
+2026-07-14 22:56:01 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:56:01 INFO  Steps - Entering Password
+2026-07-14 22:56:02 INFO  Steps - Clicking Login Button
+2026-07-14 22:56:05 INFO  Steps - Login Successful
+2026-07-14 22:56:05 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:56:05 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:56:05 INFO  Steps - Opening Categories Page
+2026-07-14 22:56:06 INFO  Steps - Categories Page Opened
+2026-07-14 22:56:08 INFO  Steps - Closing Browser
+2026-07-14 22:56:09 INFO  Steps - Browser Closed Successfully
+2026-07-14 22:56:09 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:56:10 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:56:10 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:56:11 INFO  Steps - Login Successful
+2026-07-14 22:56:11 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:56:11 INFO  Steps - Entering Password
+2026-07-14 22:56:12 INFO  Steps - Clicking Login Button
+2026-07-14 22:56:15 INFO  Steps - Login Successful
+2026-07-14 22:56:15 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:56:15 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:56:15 INFO  Steps - Opening Categories Page
+2026-07-14 22:56:16 INFO  Steps - Categories Page Opened
+2026-07-14 22:56:19 INFO  Steps - Launching Chrome Browser
+2026-07-14 22:56:20 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 22:56:20 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 22:56:22 INFO  Steps - Login Successful
+2026-07-14 22:56:22 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 22:56:22 INFO  Steps - Entering Password
+2026-07-14 22:56:23 INFO  Steps - Clicking Login Button
+2026-07-14 22:56:27 INFO  Steps - Login Successful
+2026-07-14 22:56:27 INFO  Steps - Opening Catalog Menu
+2026-07-14 22:56:27 INFO  Steps - Catalog Menu Opened
+2026-07-14 22:56:27 INFO  Steps - Opening Categories Page
+2026-07-14 22:56:29 INFO  Steps - Categories Page Opened
+2026-07-14 23:04:50 INFO  Steps - Launching Chrome Browser
+2026-07-14 23:04:53 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 23:04:53 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 23:04:54 INFO  Steps - Login Successful
+2026-07-14 23:04:54 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 23:04:54 INFO  Steps - Entering Password
+2026-07-14 23:04:55 INFO  Steps - Clicking Login Button
+2026-07-14 23:04:58 INFO  Steps - Login Successful
+2026-07-14 23:04:58 INFO  Steps - Opening Catalog Menu
+2026-07-14 23:04:59 INFO  Steps - Catalog Menu Opened
+2026-07-14 23:04:59 INFO  Steps - Opening Categories Page
+2026-07-14 23:04:59 INFO  Steps - Categories Page Opened
+2026-07-14 23:05:01 INFO  Steps - Generated Category : Automation Category ZYVyH
+2026-07-14 23:05:02 INFO  Steps - Closing Browser
+2026-07-14 23:05:03 INFO  Steps - Browser Closed Successfully
+2026-07-14 23:05:03 INFO  Steps - Launching Chrome Browser
+2026-07-14 23:05:04 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 23:05:04 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 23:05:06 INFO  Steps - Login Successful
+2026-07-14 23:05:06 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 23:05:06 INFO  Steps - Entering Password
+2026-07-14 23:05:07 INFO  Steps - Clicking Login Button
+2026-07-14 23:05:10 INFO  Steps - Login Successful
+2026-07-14 23:05:10 INFO  Steps - Opening Catalog Menu
+2026-07-14 23:05:10 INFO  Steps - Catalog Menu Opened
+2026-07-14 23:05:10 INFO  Steps - Opening Categories Page
+2026-07-14 23:05:11 INFO  Steps - Categories Page Opened
+2026-07-14 23:05:14 INFO  Steps - Closing Browser
+2026-07-14 23:05:14 INFO  Steps - Browser Closed Successfully
+2026-07-14 23:05:14 INFO  Steps - Launching Chrome Browser
+2026-07-14 23:05:15 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 23:05:15 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 23:05:16 INFO  Steps - Login Successful
+2026-07-14 23:05:16 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 23:05:16 INFO  Steps - Entering Password
+2026-07-14 23:05:17 INFO  Steps - Clicking Login Button
+2026-07-14 23:05:20 INFO  Steps - Login Successful
+2026-07-14 23:05:20 INFO  Steps - Opening Catalog Menu
+2026-07-14 23:05:20 INFO  Steps - Catalog Menu Opened
+2026-07-14 23:05:20 INFO  Steps - Opening Categories Page
+2026-07-14 23:05:21 INFO  Steps - Categories Page Opened
+2026-07-14 23:05:25 INFO  Steps - Saving Updated Category
+2026-07-14 23:05:26 INFO  Steps - Closing Browser
+2026-07-14 23:05:26 INFO  Steps - Browser Closed Successfully
+2026-07-14 23:05:26 INFO  Steps - Launching Chrome Browser
+2026-07-14 23:05:27 INFO  Steps - Chrome Browser launched successfully.
+2026-07-14 23:05:27 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-14 23:05:28 INFO  Steps - Login Successful
+2026-07-14 23:05:28 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-14 23:05:29 INFO  Steps - Entering Password
+2026-07-14 23:05:29 INFO  Steps - Clicking Login Button
+2026-07-14 23:05:32 INFO  Steps - Login Successful
+2026-07-14 23:05:32 INFO  Steps - Opening Catalog Menu
+2026-07-14 23:05:33 INFO  Steps - Catalog Menu Opened
+2026-07-14 23:05:33 INFO  Steps - Opening Categories Page
+2026-07-14 23:05:34 INFO  Steps - Categories Page Opened
+2026-07-14 23:05:40 INFO  Steps - Closing Browser
+2026-07-14 23:05:40 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:28:23 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:28:28 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:28:28 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:28:30 INFO  Steps - Login Successful
+2026-07-15 09:28:30 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:28:30 INFO  Steps - Entering Password
+2026-07-15 09:28:30 INFO  Steps - Clicking Login Button
+2026-07-15 09:28:37 INFO  Steps - Login Successful
+2026-07-15 09:28:37 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:28:37 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:28:37 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:28:39 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:28:39 INFO  Steps - Clicking Add New Manufacturer
+2026-07-15 09:28:40 INFO  Steps - Manufacturer : Automation Manufacturer giFil
+2026-07-15 09:28:41 INFO  Steps - Manufacturer Added Successfully
+2026-07-15 09:28:41 INFO  Steps - Closing Browser
+2026-07-15 09:28:44 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:28:44 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:28:45 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:28:45 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:28:45 INFO  Steps - Login Successful
+2026-07-15 09:28:45 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:28:45 INFO  Steps - Entering Password
+2026-07-15 09:28:46 INFO  Steps - Clicking Login Button
+2026-07-15 09:28:49 INFO  Steps - Login Successful
+2026-07-15 09:28:49 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:28:49 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:28:49 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:28:50 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:28:50 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:28:51 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:28:51 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:28:52 INFO  Steps - Login Successful
+2026-07-15 09:28:52 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:28:52 INFO  Steps - Entering Password
+2026-07-15 09:28:53 INFO  Steps - Clicking Login Button
+2026-07-15 09:28:56 INFO  Steps - Login Successful
+2026-07-15 09:28:56 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:28:56 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:28:57 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:28:57 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:28:57 INFO  Steps - Login Successful
+2026-07-15 09:28:57 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:31:43 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:31:45 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:31:45 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:31:46 INFO  Steps - Login Successful
+2026-07-15 09:31:46 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:31:46 INFO  Steps - Entering Password
+2026-07-15 09:31:46 INFO  Steps - Clicking Login Button
+2026-07-15 09:31:50 INFO  Steps - Login Successful
+2026-07-15 09:31:50 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:31:50 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:31:50 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:31:51 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:31:51 INFO  Steps - Clicking Add New Manufacturer
+2026-07-15 09:31:52 INFO  Steps - Manufacturer : Automation Manufacturer rpEyh
+2026-07-15 09:31:53 INFO  Steps - Manufacturer Added Successfully
+2026-07-15 09:31:53 INFO  Steps - Closing Browser
+2026-07-15 09:31:53 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:31:53 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:31:54 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:31:54 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:31:55 INFO  Steps - Login Successful
+2026-07-15 09:31:55 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:31:55 INFO  Steps - Entering Password
+2026-07-15 09:31:55 INFO  Steps - Clicking Login Button
+2026-07-15 09:31:59 INFO  Steps - Login Successful
+2026-07-15 09:31:59 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:31:59 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:31:59 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:32:00 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:32:00 INFO  Steps - Searching Manufacturer : Automation Manufacturer rpEyh
+2026-07-15 09:32:02 INFO  Steps - Manufacturer Found Successfully
+2026-07-15 09:32:02 INFO  Steps - Closing Browser
+2026-07-15 09:32:02 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:32:03 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:32:03 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:32:03 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:32:04 INFO  Steps - Login Successful
+2026-07-15 09:32:04 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:32:04 INFO  Steps - Entering Password
+2026-07-15 09:32:05 INFO  Steps - Clicking Login Button
+2026-07-15 09:32:08 INFO  Steps - Login Successful
+2026-07-15 09:32:08 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:32:08 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:32:09 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:32:09 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:32:10 INFO  Steps - Login Successful
+2026-07-15 09:32:10 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:32:10 INFO  Steps - Entering Password
+2026-07-15 09:32:10 INFO  Steps - Clicking Login Button
+2026-07-15 09:32:13 INFO  Steps - Login Successful
+2026-07-15 09:32:13 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:58:23 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:58:25 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:58:25 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:58:26 INFO  Steps - Login Successful
+2026-07-15 09:58:26 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:58:26 INFO  Steps - Entering Password
+2026-07-15 09:58:26 INFO  Steps - Clicking Login Button
+2026-07-15 09:58:30 INFO  Steps - Login Successful
+2026-07-15 09:58:30 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:58:30 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:58:30 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:58:31 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:58:31 INFO  Steps - Clicking Add New Manufacturer
+2026-07-15 09:58:32 INFO  Steps - Manufacturer : Automation Manufacturer iNegp
+2026-07-15 09:58:33 INFO  Steps - Manufacturer Added Successfully
+2026-07-15 09:58:33 INFO  Steps - Closing Browser
+2026-07-15 09:58:33 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:58:33 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:58:34 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:58:34 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:58:35 INFO  Steps - Login Successful
+2026-07-15 09:58:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:58:35 INFO  Steps - Entering Password
+2026-07-15 09:58:36 INFO  Steps - Clicking Login Button
+2026-07-15 09:58:39 INFO  Steps - Login Successful
+2026-07-15 09:58:39 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:58:39 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:58:39 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:58:40 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:58:40 INFO  Steps - Searching Manufacturer : Automation Manufacturer iNegp
+2026-07-15 09:58:43 INFO  Steps - Manufacturer Found Successfully
+2026-07-15 09:58:43 INFO  Steps - Closing Browser
+2026-07-15 09:58:43 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:58:43 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:58:44 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:58:44 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:58:45 INFO  Steps - Login Successful
+2026-07-15 09:58:45 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:58:45 INFO  Steps - Entering Password
+2026-07-15 09:58:45 INFO  Steps - Clicking Login Button
+2026-07-15 09:58:48 INFO  Steps - Login Successful
+2026-07-15 09:58:48 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:58:49 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:58:49 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:58:50 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:58:50 INFO  Steps - Searching Manufacturer : Automation Manufacturer iNegp
+2026-07-15 09:58:52 INFO  Steps - Opening Manufacturer
+2026-07-15 09:58:53 INFO  Steps - Updating Manufacturer
+2026-07-15 09:58:54 INFO  Steps - Manufacturer Updated Successfully
+2026-07-15 09:58:54 INFO  Steps - Closing Browser
+2026-07-15 09:58:54 INFO  Steps - Browser Closed Successfully
+2026-07-15 09:58:54 INFO  Steps - Launching Chrome Browser
+2026-07-15 09:58:55 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 09:58:55 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 09:58:55 INFO  Steps - Login Successful
+2026-07-15 09:58:55 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 09:58:56 INFO  Steps - Entering Password
+2026-07-15 09:58:56 INFO  Steps - Clicking Login Button
+2026-07-15 09:58:59 INFO  Steps - Login Successful
+2026-07-15 09:58:59 INFO  Steps - Opening Catalog Menu
+2026-07-15 09:59:00 INFO  Steps - Catalog Menu Opened
+2026-07-15 09:59:00 INFO  Steps - Opening Manufacturers Page
+2026-07-15 09:59:01 INFO  Steps - Manufacturers Page Opened
+2026-07-15 09:59:01 INFO  Steps - Searching Manufacturer : Automation Manufacturer iNegp Updated
+2026-07-15 09:59:03 INFO  Steps - Selecting Manufacturer
+2026-07-15 09:59:03 INFO  Steps - Deleting Manufacturer
+2026-07-15 09:59:04 INFO  Steps - Confirming Delete
+2026-07-15 09:59:07 INFO  Steps - Manufacturer Deleted Successfully
+2026-07-15 09:59:07 INFO  Steps - Closing Browser
+2026-07-15 09:59:07 INFO  Steps - Browser Closed Successfully
+2026-07-15 11:14:32 INFO  Steps - Launching Chrome Browser
+2026-07-15 11:14:35 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 11:14:36 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 11:14:37 INFO  Steps - Login Successful
+2026-07-15 11:14:37 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 11:14:38 INFO  Steps - Entering Password
+2026-07-15 11:14:38 INFO  Steps - Clicking Login Button
+2026-07-15 11:14:45 INFO  Steps - Login Successful
+2026-07-15 11:14:45 INFO  Steps - Opening Catalog Menu
+2026-07-15 11:14:45 INFO  Steps - Catalog Menu Opened
+2026-07-15 11:22:38 INFO  Steps - Launching Chrome Browser
+2026-07-15 11:22:41 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 11:22:41 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 11:22:41 INFO  Steps - Login Successful
+2026-07-15 11:22:41 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 11:22:42 INFO  Steps - Entering Password
+2026-07-15 11:22:42 INFO  Steps - Clicking Login Button
+2026-07-15 11:22:45 INFO  Steps - Login Successful
+2026-07-15 11:22:45 INFO  Steps - Opening Catalog Menu
+2026-07-15 11:22:46 INFO  Steps - Catalog Menu Opened
+2026-07-15 11:23:09 INFO  Steps - Launching Chrome Browser
+2026-07-15 11:23:11 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 11:23:11 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 11:23:11 INFO  Steps - Login Successful
+2026-07-15 11:23:11 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 11:23:11 INFO  Steps - Entering Password
+2026-07-15 11:23:12 INFO  Steps - Clicking Login Button
+2026-07-15 11:23:15 INFO  Steps - Login Successful
+2026-07-15 11:23:15 INFO  Steps - Opening Catalog Menu
+2026-07-15 11:23:15 INFO  Steps - Catalog Menu Opened
+2026-07-15 11:23:37 INFO  Steps - Launching Chrome Browser
+2026-07-15 11:23:38 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 11:23:38 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 11:23:39 INFO  Steps - Login Successful
+2026-07-15 11:23:39 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 11:23:39 INFO  Steps - Entering Password
+2026-07-15 11:23:39 INFO  Steps - Clicking Login Button
+2026-07-15 11:23:42 INFO  Steps - Login Successful
+2026-07-15 11:23:42 INFO  Steps - Opening Catalog Menu
+2026-07-15 11:23:43 INFO  Steps - Catalog Menu Opened
+2026-07-15 11:24:05 INFO  Steps - Launching Chrome Browser
+2026-07-15 11:24:06 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 11:24:06 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 11:24:07 INFO  Steps - Login Successful
+2026-07-15 11:24:07 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 11:24:08 INFO  Steps - Entering Password
+2026-07-15 11:24:08 INFO  Steps - Clicking Login Button
+2026-07-15 11:24:11 INFO  Steps - Login Successful
+2026-07-15 11:24:11 INFO  Steps - Opening Catalog Menu
+2026-07-15 11:24:11 INFO  Steps - Catalog Menu Opened
+2026-07-15 22:46:45 INFO  Steps - Launching Chrome Browser
+2026-07-15 22:46:51 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 22:46:51 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 22:46:52 INFO  Steps - Login Successful
+2026-07-15 22:46:52 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 22:46:53 INFO  Steps - Entering Password
+2026-07-15 22:46:53 INFO  Steps - Clicking Login Button
+2026-07-15 22:47:03 INFO  Steps - Login Successful
+2026-07-15 22:47:03 INFO  Steps - Opening Catalog Menu
+2026-07-15 22:47:03 INFO  Steps - Catalog Menu Opened
+2026-07-15 22:47:03 INFO  Steps - Opening Attributes Menu
+2026-07-15 22:47:04 INFO  Steps - Attributes Menu Opened
+2026-07-15 22:47:04 INFO  Steps - Opening Product Attributes Page
+2026-07-15 22:50:42 INFO  Steps - Launching Chrome Browser
+2026-07-15 22:50:45 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 22:50:45 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 22:50:46 INFO  Steps - Login Successful
+2026-07-15 22:50:46 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 22:50:47 INFO  Steps - Entering Password
+2026-07-15 22:50:47 INFO  Steps - Clicking Login Button
+2026-07-15 22:50:50 INFO  Steps - Login Successful
+2026-07-15 22:50:50 INFO  Steps - Opening Catalog Menu
+2026-07-15 22:50:51 INFO  Steps - Catalog Menu Opened
+2026-07-15 22:50:51 INFO  Steps - Opening Attributes Menu
+2026-07-15 22:50:52 INFO  Steps - Attributes Menu Opened
+2026-07-15 22:50:52 INFO  Steps - Opening Product Attributes Page
+2026-07-15 22:50:52 INFO  Steps - Product Attributes Page Opened
+2026-07-15 22:50:52 INFO  Steps - Product Attribute Page Verified Successfully
+2026-07-15 22:50:52 INFO  Steps - Closing Browser
+2026-07-15 22:50:53 INFO  Steps - Browser Closed Successfully
+2026-07-15 22:59:51 INFO  Steps - Launching Chrome Browser
+2026-07-15 22:59:54 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 22:59:54 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 22:59:55 INFO  Steps - Login Successful
+2026-07-15 22:59:55 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 22:59:56 INFO  Steps - Entering Password
+2026-07-15 22:59:56 INFO  Steps - Clicking Login Button
+2026-07-15 23:00:00 INFO  Steps - Login Successful
+2026-07-15 23:00:00 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:00:01 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:00:01 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:00:01 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:00:01 INFO  Steps - Opening Specification Attributes Page
+2026-07-15 23:00:03 INFO  Steps - Specification Attributes Page Opened
+2026-07-15 23:00:03 INFO  Steps - Specification Attributes Page Verified
+2026-07-15 23:00:03 INFO  Steps - Closing Browser
+2026-07-15 23:00:03 INFO  Steps - Browser Closed Successfully
+2026-07-15 23:04:44 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:04:47 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:04:47 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:04:48 INFO  Steps - Login Successful
+2026-07-15 23:04:48 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:04:49 INFO  Steps - Entering Password
+2026-07-15 23:04:49 INFO  Steps - Clicking Login Button
+2026-07-15 23:04:53 INFO  Steps - Login Successful
+2026-07-15 23:04:53 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:04:53 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:04:53 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:04:54 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:04:54 INFO  Steps - Opening Checkout Attributes Page
+2026-07-15 23:04:55 INFO  Steps - Checkout Attributes Page Opened
+2026-07-15 23:04:55 INFO  Steps - Checkout Attributes Page Verified
+2026-07-15 23:04:55 INFO  Steps - Closing Browser
+2026-07-15 23:04:55 INFO  Steps - Browser Closed Successfully
+2026-07-15 23:22:20 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:22:22 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:22:22 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:22:23 INFO  Steps - Login Successful
+2026-07-15 23:22:23 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:22:23 INFO  Steps - Entering Password
+2026-07-15 23:22:24 INFO  Steps - Clicking Login Button
+2026-07-15 23:22:27 INFO  Steps - Login Successful
+2026-07-15 23:22:27 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:22:27 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:22:27 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:22:28 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:22:49 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:22:50 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:22:50 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:22:51 INFO  Steps - Login Successful
+2026-07-15 23:22:51 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:22:51 INFO  Steps - Entering Password
+2026-07-15 23:22:52 INFO  Steps - Clicking Login Button
+2026-07-15 23:22:55 INFO  Steps - Login Successful
+2026-07-15 23:22:55 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:22:55 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:22:55 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:22:56 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:25:04 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:25:06 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:25:06 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:25:07 INFO  Steps - Login Successful
+2026-07-15 23:25:07 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:25:07 INFO  Steps - Entering Password
+2026-07-15 23:25:08 INFO  Steps - Clicking Login Button
+2026-07-15 23:25:11 INFO  Steps - Login Successful
+2026-07-15 23:25:11 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:25:12 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:25:12 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:25:12 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:25:33 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:25:34 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:25:34 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:25:35 INFO  Steps - Login Successful
+2026-07-15 23:25:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:25:36 INFO  Steps - Entering Password
+2026-07-15 23:25:36 INFO  Steps - Clicking Login Button
+2026-07-15 23:25:39 INFO  Steps - Login Successful
+2026-07-15 23:25:39 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:25:40 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:25:40 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:25:40 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:45:02 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:45:05 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:45:05 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:45:06 INFO  Steps - Login Successful
+2026-07-15 23:45:06 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:45:07 INFO  Steps - Entering Password
+2026-07-15 23:45:07 INFO  Steps - Clicking Login Button
+2026-07-15 23:45:10 INFO  Steps - Login Successful
+2026-07-15 23:45:10 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:45:11 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:45:11 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:45:11 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:45:13 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:45:14 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:45:14 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:45:15 INFO  Steps - Login Successful
+2026-07-15 23:45:15 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:45:15 INFO  Steps - Entering Password
+2026-07-15 23:45:15 INFO  Steps - Clicking Login Button
+2026-07-15 23:45:19 INFO  Steps - Login Successful
+2026-07-15 23:45:19 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:45:19 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:45:19 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:45:19 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:47:58 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:48:02 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:48:02 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:48:04 INFO  Steps - Login Successful
+2026-07-15 23:48:04 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:48:04 INFO  Steps - Entering Password
+2026-07-15 23:48:04 INFO  Steps - Clicking Login Button
+2026-07-15 23:48:10 INFO  Steps - Login Successful
+2026-07-15 23:48:10 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:48:10 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:48:10 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:48:10 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:48:12 INFO  Steps - Verifying Specification Attribute Groups Page
+2026-07-15 23:48:12 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:48:14 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:48:14 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:48:15 INFO  Steps - Login Successful
+2026-07-15 23:48:15 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:48:15 INFO  Steps - Entering Password
+2026-07-15 23:48:15 INFO  Steps - Clicking Login Button
+2026-07-15 23:48:19 INFO  Steps - Login Successful
+2026-07-15 23:48:19 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:48:19 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:48:19 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:48:20 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:51:57 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:52:00 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:52:00 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:52:01 INFO  Steps - Login Successful
+2026-07-15 23:52:01 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:52:02 INFO  Steps - Entering Password
+2026-07-15 23:52:02 INFO  Steps - Clicking Login Button
+2026-07-15 23:52:06 INFO  Steps - Login Successful
+2026-07-15 23:52:06 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:52:06 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:52:06 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:52:06 INFO  Steps - Attributes Menu Opened
+2026-07-15 23:52:08 INFO  Steps - Closing Browser
+2026-07-15 23:52:08 INFO  Steps - Browser Closed Successfully
+2026-07-15 23:52:08 INFO  Steps - Launching Chrome Browser
+2026-07-15 23:52:09 INFO  Steps - Chrome Browser launched successfully.
+2026-07-15 23:52:09 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-15 23:52:10 INFO  Steps - Login Successful
+2026-07-15 23:52:10 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-15 23:52:11 INFO  Steps - Entering Password
+2026-07-15 23:52:11 INFO  Steps - Clicking Login Button
+2026-07-15 23:52:14 INFO  Steps - Login Successful
+2026-07-15 23:52:14 INFO  Steps - Opening Catalog Menu
+2026-07-15 23:52:15 INFO  Steps - Catalog Menu Opened
+2026-07-15 23:52:15 INFO  Steps - Opening Attributes Menu
+2026-07-15 23:52:16 INFO  Steps - Attributes Menu Opened
+2026-07-16 15:39:00 INFO  Steps - Launching Chrome Browser
+2026-07-16 15:39:06 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 15:39:06 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 15:39:13 INFO  Steps - Login Successful
+2026-07-16 15:39:13 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 15:39:13 INFO  Steps - Entering Password
+2026-07-16 15:39:13 INFO  Steps - Clicking Login Button
+2026-07-16 15:39:45 INFO  Steps - Login Successful
+2026-07-16 15:39:45 INFO  Steps - Opening Customers Menu
+2026-07-16 15:39:45 INFO  Steps - Customers Menu Opened
+2026-07-16 15:39:45 INFO  Steps - Opening Vendors Page
+2026-07-16 15:39:47 INFO  Steps - Vendors Page Opened
+2026-07-16 15:39:47 INFO  Steps - Vendor Page Verified
+2026-07-16 15:39:47 INFO  Steps - Closing Browser
+2026-07-16 15:39:48 INFO  Steps - Browser Closed Successfully
+2026-07-16 15:39:48 INFO  Steps - Launching Chrome Browser
+2026-07-16 15:39:49 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 15:39:49 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 15:39:52 INFO  Steps - Login Successful
+2026-07-16 15:39:52 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 15:39:52 INFO  Steps - Entering Password
+2026-07-16 15:39:52 INFO  Steps - Clicking Login Button
+2026-07-16 15:39:56 INFO  Steps - Login Successful
+2026-07-16 15:39:56 INFO  Steps - Opening Customers Menu
+2026-07-16 15:39:56 INFO  Steps - Customers Menu Opened
+2026-07-16 15:39:56 INFO  Steps - Opening Vendors Page
+2026-07-16 15:39:57 INFO  Steps - Vendors Page Opened
+2026-07-16 15:39:59 INFO  Steps - Closing Browser
+2026-07-16 15:39:59 INFO  Steps - Browser Closed Successfully
+2026-07-16 15:43:46 INFO  Steps - Launching Chrome Browser
+2026-07-16 15:43:48 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 15:43:48 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 15:44:30 INFO  Steps - Login Successful
+2026-07-16 15:44:30 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 15:44:30 INFO  Steps - Entering Password
+2026-07-16 15:44:30 INFO  Steps - Clicking Login Button
+2026-07-16 15:44:53 INFO  Steps - Login Successful
+2026-07-16 15:44:53 INFO  Steps - Opening Customers Menu
+2026-07-16 15:44:53 INFO  Steps - Customers Menu Opened
+2026-07-16 15:44:53 INFO  Steps - Opening Vendors Page
+2026-07-16 15:44:54 INFO  Steps - Vendors Page Opened
+2026-07-16 15:44:54 INFO  Steps - Vendor Page Verified
+2026-07-16 15:44:54 INFO  Steps - Closing Browser
+2026-07-16 15:44:54 INFO  Steps - Browser Closed Successfully
+2026-07-16 15:44:54 INFO  Steps - Launching Chrome Browser
+2026-07-16 15:44:55 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 15:44:55 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 15:44:58 INFO  Steps - Login Successful
+2026-07-16 15:44:58 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 15:44:59 INFO  Steps - Entering Password
+2026-07-16 15:44:59 INFO  Steps - Clicking Login Button
+2026-07-16 15:45:02 INFO  Steps - Login Successful
+2026-07-16 15:45:02 INFO  Steps - Opening Customers Menu
+2026-07-16 15:45:20 INFO  Steps - Customers Menu Opened
+2026-07-16 15:45:20 INFO  Steps - Opening Vendors Page
+2026-07-16 15:45:21 INFO  Steps - Vendors Page Opened
+2026-07-16 15:50:56 INFO  Steps - Launching Chrome Browser
+2026-07-16 15:50:59 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 15:50:59 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 15:51:02 INFO  Steps - Login Successful
+2026-07-16 15:51:02 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 15:51:02 INFO  Steps - Entering Password
+2026-07-16 15:51:02 INFO  Steps - Clicking Login Button
+2026-07-16 15:51:06 INFO  Steps - Login Successful
+2026-07-16 15:51:06 INFO  Steps - Opening Customers Menu
+2026-07-16 15:51:06 INFO  Steps - Customers Menu Opened
+2026-07-16 15:51:06 INFO  Steps - Opening Vendors Page
+2026-07-16 15:51:07 INFO  Steps - Vendors Page Opened
+2026-07-16 15:51:07 INFO  Steps - Vendor Page Verified
+2026-07-16 15:51:07 INFO  Steps - Closing Browser
+2026-07-16 15:51:07 INFO  Steps - Browser Closed Successfully
+2026-07-16 15:51:07 INFO  Steps - Launching Chrome Browser
+2026-07-16 15:51:08 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 15:51:08 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 15:51:11 INFO  Steps - Login Successful
+2026-07-16 15:51:11 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 15:51:12 INFO  Steps - Entering Password
+2026-07-16 15:51:12 INFO  Steps - Clicking Login Button
+2026-07-16 15:51:15 INFO  Steps - Login Successful
+2026-07-16 15:51:15 INFO  Steps - Opening Customers Menu
+2026-07-16 15:51:15 INFO  Steps - Customers Menu Opened
+2026-07-16 15:51:15 INFO  Steps - Opening Vendors Page
+2026-07-16 15:51:16 INFO  Steps - Vendors Page Opened
+2026-07-16 15:51:18 INFO  Steps - Vendor Details Entered
+2026-07-16 15:51:19 INFO  Steps - Vendor Saved
+2026-07-16 15:51:19 INFO  Steps - Vendor Added Successfully
+2026-07-16 15:51:19 INFO  Steps - Closing Browser
+2026-07-16 15:51:19 INFO  Steps - Browser Closed Successfully
+2026-07-16 16:13:00 INFO  Steps - Launching Chrome Browser
+2026-07-16 16:13:01 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 16:13:01 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 16:13:06 INFO  Steps - Login Successful
+2026-07-16 16:13:06 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 16:13:07 INFO  Steps - Entering Password
+2026-07-16 16:13:07 INFO  Steps - Clicking Login Button
+2026-07-16 16:13:10 INFO  Steps - Login Successful
+2026-07-16 16:13:10 INFO  Steps - Opening Configuration Menu
+2026-07-16 16:13:11 INFO  Steps - Configuration Menu Opened
+2026-07-16 16:13:11 INFO  Steps - Opening Languages Page
+2026-07-16 16:13:11 INFO  Steps - Languages Page Opened
+2026-07-16 16:13:12 INFO  Steps - Languages Page Verified
+2026-07-16 16:13:12 INFO  Steps - Closing Browser
+2026-07-16 16:13:12 INFO  Steps - Browser Closed Successfully
+2026-07-16 16:13:12 INFO  Steps - Launching Chrome Browser
+2026-07-16 16:13:13 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 16:13:13 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 16:13:15 INFO  Steps - Login Successful
+2026-07-16 16:13:15 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 16:13:16 INFO  Steps - Entering Password
+2026-07-16 16:13:16 INFO  Steps - Clicking Login Button
+2026-07-16 16:13:19 INFO  Steps - Login Successful
+2026-07-16 16:13:19 INFO  Steps - Opening Configuration Menu
+2026-07-16 16:13:19 INFO  Steps - Configuration Menu Opened
+2026-07-16 16:13:19 INFO  Steps - Opening Languages Page
+2026-07-16 16:13:20 INFO  Steps - Languages Page Opened
+2026-07-16 16:13:20 INFO  Steps - Clicking Add New Language
+2026-07-16 16:13:21 INFO  Steps - Add Language Page Opened
+2026-07-16 16:13:21 INFO  Steps - Add Language Page Verified
+2026-07-16 16:23:11 INFO  Steps - Launching Chrome Browser
+2026-07-16 16:23:12 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 16:23:12 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 16:23:16 INFO  Steps - Login Successful
+2026-07-16 16:23:16 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 16:23:16 INFO  Steps - Entering Password
+2026-07-16 16:23:16 INFO  Steps - Clicking Login Button
+2026-07-16 16:23:19 INFO  Steps - Login Successful
+2026-07-16 16:23:19 INFO  Steps - Opening Configuration Menu
+2026-07-16 16:23:20 INFO  Steps - Configuration Menu Opened
+2026-07-16 16:23:20 INFO  Steps - Opening Languages Page
+2026-07-16 16:23:21 INFO  Steps - Languages Page Opened
+2026-07-16 16:23:21 INFO  Steps - Languages Page Verified
+2026-07-16 16:23:21 INFO  Steps - Closing Browser
+2026-07-16 16:23:21 INFO  Steps - Browser Closed Successfully
+2026-07-16 16:23:21 INFO  Steps - Launching Chrome Browser
+2026-07-16 16:23:22 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 16:23:22 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 16:23:25 INFO  Steps - Login Successful
+2026-07-16 16:23:25 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 16:23:25 INFO  Steps - Entering Password
+2026-07-16 16:23:25 INFO  Steps - Clicking Login Button
+2026-07-16 16:23:29 INFO  Steps - Login Successful
+2026-07-16 16:23:29 INFO  Steps - Opening Configuration Menu
+2026-07-16 16:23:29 INFO  Steps - Configuration Menu Opened
+2026-07-16 16:23:29 INFO  Steps - Opening Languages Page
+2026-07-16 16:23:30 INFO  Steps - Languages Page Opened
+2026-07-16 16:23:30 INFO  Steps - Clicking Add New Language
+2026-07-16 16:23:30 INFO  Steps - Add Language Page Opened
+2026-07-16 16:23:30 INFO  Steps - Add Language Page Verified
+2026-07-16 16:23:32 INFO  Steps - Language Added Successfully
+2026-07-16 16:23:32 INFO  Steps - Closing Browser
+2026-07-16 16:23:32 INFO  Steps - Browser Closed Successfully
+2026-07-16 16:34:22 INFO  Steps - Launching Chrome Browser
+2026-07-16 16:34:23 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 16:34:23 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 16:34:27 INFO  Steps - Login Successful
+2026-07-16 16:34:27 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 16:34:27 INFO  Steps - Entering Password
+2026-07-16 16:34:27 INFO  Steps - Clicking Login Button
+2026-07-16 16:34:31 INFO  Steps - Login Successful
+2026-07-16 16:34:31 INFO  Steps - Opening Configuration Menu
+2026-07-16 16:34:31 INFO  Steps - Configuration Menu Opened
+2026-07-16 16:34:31 INFO  Steps - Opening Currencies Page
+2026-07-16 16:34:32 INFO  Steps - Currencies Page Opened
+2026-07-16 16:34:32 INFO  Steps - Currencies Page Verified
+2026-07-16 16:34:32 INFO  Steps - Closing Browser
+2026-07-16 16:34:32 INFO  Steps - Browser Closed Successfully
+2026-07-16 16:34:32 INFO  Steps - Launching Chrome Browser
+2026-07-16 16:34:33 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 16:34:33 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 16:34:36 INFO  Steps - Login Successful
+2026-07-16 16:34:36 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 16:34:36 INFO  Steps - Entering Password
+2026-07-16 16:34:37 INFO  Steps - Clicking Login Button
+2026-07-16 16:34:40 INFO  Steps - Login Successful
+2026-07-16 16:34:40 INFO  Steps - Opening Configuration Menu
+2026-07-16 16:34:40 INFO  Steps - Configuration Menu Opened
+2026-07-16 16:34:40 INFO  Steps - Opening Currencies Page
+2026-07-16 16:34:41 INFO  Steps - Currencies Page Opened
+2026-07-16 16:34:41 INFO  Steps - Clicking Add New Currency
+2026-07-16 16:34:42 INFO  Steps - Add Currency Page Opened
+2026-07-16 16:34:42 INFO  Steps - Add Currency Page Verified
+2026-07-16 22:40:49 INFO  Steps - Launching Chrome Browser
+2026-07-16 22:40:54 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 22:40:54 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 22:41:07 INFO  Steps - Login Successful
+2026-07-16 22:41:07 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 22:41:08 INFO  Steps - Entering Password
+2026-07-16 22:41:08 INFO  Steps - Clicking Login Button
+2026-07-16 22:41:16 INFO  Steps - Login Successful
+2026-07-16 22:41:16 INFO  Steps - Opening Configuration Menu
+2026-07-16 22:41:16 INFO  Steps - Configuration Menu Opened
+2026-07-16 22:41:16 INFO  Steps - Opening Currencies Page
+2026-07-16 22:41:17 INFO  Steps - Currencies Page Opened
+2026-07-16 22:41:18 INFO  Steps - Currencies Page Verified
+2026-07-16 22:41:18 INFO  Steps - Closing Browser
+2026-07-16 22:41:18 INFO  Steps - Browser Closed Successfully
+2026-07-16 22:41:18 INFO  Steps - Launching Chrome Browser
+2026-07-16 22:41:19 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 22:41:19 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 22:41:22 INFO  Steps - Login Successful
+2026-07-16 22:41:22 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 22:41:22 INFO  Steps - Entering Password
+2026-07-16 22:41:22 INFO  Steps - Clicking Login Button
+2026-07-16 22:41:26 INFO  Steps - Login Successful
+2026-07-16 22:41:26 INFO  Steps - Opening Configuration Menu
+2026-07-16 22:41:27 INFO  Steps - Configuration Menu Opened
+2026-07-16 22:41:27 INFO  Steps - Opening Currencies Page
+2026-07-16 22:41:28 INFO  Steps - Currencies Page Opened
+2026-07-16 22:41:28 INFO  Steps - Clicking Add New Currency
+2026-07-16 22:41:28 INFO  Steps - Add Currency Page Opened
+2026-07-16 22:41:28 INFO  Steps - Add Currency Page Verified
+2026-07-16 22:41:29 INFO  Steps - Currency Details Entered
+2026-07-16 22:41:30 INFO  Steps - Currency Saved
+2026-07-16 22:41:30 INFO  Steps - Currency Added Successfully
+2026-07-16 22:41:30 INFO  Steps - Closing Browser
+2026-07-16 22:41:30 INFO  Steps - Browser Closed Successfully
+2026-07-16 22:53:52 INFO  Steps - Launching Chrome Browser
+2026-07-16 22:53:56 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 22:53:56 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 22:53:59 INFO  Steps - Login Successful
+2026-07-16 22:53:59 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 22:53:59 INFO  Steps - Entering Password
+2026-07-16 22:54:00 INFO  Steps - Clicking Login Button
+2026-07-16 22:54:03 INFO  Steps - Login Successful
+2026-07-16 22:54:03 INFO  Steps - Opening Configuration Menu
+2026-07-16 22:54:03 INFO  Steps - Configuration Menu Opened
+2026-07-16 22:54:03 INFO  Steps - Opening Measures Page
+2026-07-16 22:54:24 INFO  Steps - Launching Chrome Browser
+2026-07-16 22:54:25 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 22:54:25 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 22:54:28 INFO  Steps - Login Successful
+2026-07-16 22:54:28 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 22:54:29 INFO  Steps - Entering Password
+2026-07-16 22:54:29 INFO  Steps - Clicking Login Button
+2026-07-16 22:54:32 INFO  Steps - Login Successful
+2026-07-16 22:54:32 INFO  Steps - Opening Configuration Menu
+2026-07-16 22:54:32 INFO  Steps - Configuration Menu Opened
+2026-07-16 22:54:32 INFO  Steps - Opening Measures Page
+2026-07-16 23:06:00 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:06:03 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:06:03 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:06:06 INFO  Steps - Login Successful
+2026-07-16 23:06:06 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:06:06 INFO  Steps - Entering Password
+2026-07-16 23:06:07 INFO  Steps - Clicking Login Button
+2026-07-16 23:06:10 INFO  Steps - Login Successful
+2026-07-16 23:06:10 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:06:10 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:06:10 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:06:11 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:06:11 INFO  Steps - Opening Measures Page
+2026-07-16 23:06:12 INFO  Steps - Measures Page Opened
+2026-07-16 23:06:12 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:06:13 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:06:13 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:06:31 INFO  Steps - Login Successful
+2026-07-16 23:06:31 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:06:31 INFO  Steps - Entering Password
+2026-07-16 23:06:31 INFO  Steps - Clicking Login Button
+2026-07-16 23:06:35 INFO  Steps - Login Successful
+2026-07-16 23:06:35 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:06:39 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:06:39 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:06:40 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:06:40 INFO  Steps - Opening Measures Page
+2026-07-16 23:06:41 INFO  Steps - Measures Page Opened
+2026-07-16 23:06:41 INFO  Steps - Clicking Add New Measure
+2026-07-16 23:38:44 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:38:47 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:38:47 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:38:52 INFO  Steps - Login Successful
+2026-07-16 23:38:52 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:38:52 INFO  Steps - Entering Password
+2026-07-16 23:38:52 INFO  Steps - Clicking Login Button
+2026-07-16 23:38:56 INFO  Steps - Login Successful
+2026-07-16 23:38:56 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:39:01 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:39:01 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:39:02 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:39:02 INFO  Steps - Opening Measures Page
+2026-07-16 23:39:03 INFO  Steps - Measures Page Opened
+2026-07-16 23:39:03 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:39:05 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:39:05 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:39:08 INFO  Steps - Login Successful
+2026-07-16 23:39:08 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:39:09 INFO  Steps - Entering Password
+2026-07-16 23:39:09 INFO  Steps - Clicking Login Button
+2026-07-16 23:39:12 INFO  Steps - Login Successful
+2026-07-16 23:39:12 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:39:13 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:39:13 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:39:13 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:39:13 INFO  Steps - Opening Measures Page
+2026-07-16 23:39:15 INFO  Steps - Measures Page Opened
+2026-07-16 23:48:12 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:48:16 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:48:16 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:48:20 INFO  Steps - Login Successful
+2026-07-16 23:48:20 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:48:20 INFO  Steps - Entering Password
+2026-07-16 23:48:21 INFO  Steps - Clicking Login Button
+2026-07-16 23:48:31 INFO  Steps - Login Successful
+2026-07-16 23:48:31 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:48:31 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:48:31 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:48:32 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:48:32 INFO  Steps - Opening Measures Page
+2026-07-16 23:48:33 INFO  Steps - Measures Page Opened
+2026-07-16 23:48:33 INFO  Steps - Measures Page Verified
+2026-07-16 23:48:33 INFO  Steps - Closing Browser
+2026-07-16 23:48:33 INFO  Steps - Browser Closed Successfully
+2026-07-16 23:48:33 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:48:34 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:48:34 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:48:38 INFO  Steps - Login Successful
+2026-07-16 23:48:38 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:48:38 INFO  Steps - Entering Password
+2026-07-16 23:48:38 INFO  Steps - Clicking Login Button
+2026-07-16 23:48:42 INFO  Steps - Login Successful
+2026-07-16 23:48:42 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:48:47 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:48:47 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:48:47 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:48:47 INFO  Steps - Opening Measures Page
+2026-07-16 23:48:48 INFO  Steps - Measures Page Opened
+2026-07-16 23:59:23 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:59:25 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:59:25 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:59:29 INFO  Steps - Login Successful
+2026-07-16 23:59:29 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:59:29 INFO  Steps - Entering Password
+2026-07-16 23:59:29 INFO  Steps - Clicking Login Button
+2026-07-16 23:59:33 INFO  Steps - Login Successful
+2026-07-16 23:59:33 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:59:33 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:59:33 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:59:34 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:59:34 INFO  Steps - Opening Measures Page
+2026-07-16 23:59:35 INFO  Steps - Measures Page Opened
+2026-07-16 23:59:35 INFO  Steps - Measures Page Verified
+2026-07-16 23:59:35 INFO  Steps - Closing Browser
+2026-07-16 23:59:35 INFO  Steps - Browser Closed Successfully
+2026-07-16 23:59:35 INFO  Steps - Launching Chrome Browser
+2026-07-16 23:59:36 INFO  Steps - Chrome Browser launched successfully.
+2026-07-16 23:59:36 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-16 23:59:39 INFO  Steps - Login Successful
+2026-07-16 23:59:39 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-16 23:59:40 INFO  Steps - Entering Password
+2026-07-16 23:59:40 INFO  Steps - Clicking Login Button
+2026-07-16 23:59:43 INFO  Steps - Login Successful
+2026-07-16 23:59:43 INFO  Steps - Opening Configuration Menu
+2026-07-16 23:59:44 INFO  Steps - Configuration Menu Opened
+2026-07-16 23:59:44 INFO  Steps - Opening Shipping Menu
+2026-07-16 23:59:44 INFO  Steps - Shipping Menu Opened
+2026-07-16 23:59:44 INFO  Steps - Opening Measures Page
+2026-07-16 23:59:45 INFO  Steps - Measures Page Opened
+2026-07-17 00:09:18 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:09:21 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:09:21 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:09:24 INFO  Steps - Login Successful
+2026-07-17 00:09:24 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:09:24 INFO  Steps - Entering Password
+2026-07-17 00:09:24 INFO  Steps - Clicking Login Button
+2026-07-17 00:09:28 INFO  Steps - Login Successful
+2026-07-17 00:09:28 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:09:28 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:09:28 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:09:28 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:09:28 INFO  Steps - Opening Measures Page
+2026-07-17 00:09:29 INFO  Steps - Measures Page Opened
+2026-07-17 00:09:29 INFO  Steps - Measures Page Verified
+2026-07-17 00:09:29 INFO  Steps - Closing Browser
+2026-07-17 00:09:30 INFO  Steps - Browser Closed Successfully
+2026-07-17 00:09:30 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:09:31 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:09:31 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:09:34 INFO  Steps - Login Successful
+2026-07-17 00:09:34 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:09:34 INFO  Steps - Entering Password
+2026-07-17 00:09:35 INFO  Steps - Clicking Login Button
+2026-07-17 00:09:38 INFO  Steps - Login Successful
+2026-07-17 00:09:38 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:09:38 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:09:38 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:09:39 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:09:39 INFO  Steps - Opening Measures Page
+2026-07-17 00:09:40 INFO  Steps - Measures Page Opened
+2026-07-17 00:10:25 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:10:28 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:10:28 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:10:32 INFO  Steps - Login Successful
+2026-07-17 00:10:32 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:10:32 INFO  Steps - Entering Password
+2026-07-17 00:10:32 INFO  Steps - Clicking Login Button
+2026-07-17 00:10:36 INFO  Steps - Login Successful
+2026-07-17 00:10:36 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:10:36 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:10:36 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:10:37 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:10:37 INFO  Steps - Opening Measures Page
+2026-07-17 00:10:38 INFO  Steps - Measures Page Opened
+2026-07-17 00:10:38 INFO  Steps - Measures Page Verified
+2026-07-17 00:10:38 INFO  Steps - Closing Browser
+2026-07-17 00:10:38 INFO  Steps - Browser Closed Successfully
+2026-07-17 00:10:38 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:10:40 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:10:40 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:10:43 INFO  Steps - Login Successful
+2026-07-17 00:10:43 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:10:43 INFO  Steps - Entering Password
+2026-07-17 00:10:43 INFO  Steps - Clicking Login Button
+2026-07-17 00:10:47 INFO  Steps - Login Successful
+2026-07-17 00:10:47 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:10:47 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:10:47 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:10:47 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:10:47 INFO  Steps - Opening Measures Page
+2026-07-17 00:10:49 INFO  Steps - Measures Page Opened
+2026-07-17 00:11:54 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:11:57 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:11:57 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:12:09 INFO  Steps - Login Successful
+2026-07-17 00:12:09 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:12:10 INFO  Steps - Entering Password
+2026-07-17 00:12:10 INFO  Steps - Clicking Login Button
+2026-07-17 00:12:13 INFO  Steps - Login Successful
+2026-07-17 00:12:13 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:12:14 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:12:14 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:12:14 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:12:14 INFO  Steps - Opening Measures Page
+2026-07-17 00:12:15 INFO  Steps - Measures Page Opened
+2026-07-17 00:12:15 INFO  Steps - Measures Page Verified
+2026-07-17 00:12:15 INFO  Steps - Closing Browser
+2026-07-17 00:12:16 INFO  Steps - Browser Closed Successfully
+2026-07-17 00:12:16 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:12:17 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:12:17 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:12:20 INFO  Steps - Login Successful
+2026-07-17 00:12:20 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:12:20 INFO  Steps - Entering Password
+2026-07-17 00:12:21 INFO  Steps - Clicking Login Button
+2026-07-17 00:12:24 INFO  Steps - Login Successful
+2026-07-17 00:12:24 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:12:24 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:12:24 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:12:25 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:12:25 INFO  Steps - Opening Measures Page
+2026-07-17 00:12:26 INFO  Steps - Measures Page Opened
+2026-07-17 00:13:47 INFO  Steps - Launching Chrome Browser
+2026-07-17 00:13:50 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 00:13:50 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 00:13:53 INFO  Steps - Login Successful
+2026-07-17 00:13:53 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 00:13:54 INFO  Steps - Entering Password
+2026-07-17 00:13:54 INFO  Steps - Clicking Login Button
+2026-07-17 00:13:57 INFO  Steps - Login Successful
+2026-07-17 00:13:57 INFO  Steps - Opening Configuration Menu
+2026-07-17 00:13:58 INFO  Steps - Configuration Menu Opened
+2026-07-17 00:13:58 INFO  Steps - Opening Shipping Menu
+2026-07-17 00:13:58 INFO  Steps - Shipping Menu Opened
+2026-07-17 00:13:58 INFO  Steps - Opening Measures Page
+2026-07-17 00:13:59 INFO  Steps - Measures Page Opened
+2026-07-17 00:13:59 INFO  Steps - Measures Page Verified
+2026-07-17 00:13:59 INFO  Steps - Closing Browser
+2026-07-17 00:14:00 INFO  Steps - Browser Closed Successfully
+2026-07-17 22:26:09 INFO  Steps - Launching Chrome Browser
+2026-07-17 22:26:12 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 22:26:12 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 22:26:13 INFO  Steps - Login Successful
+2026-07-17 22:26:13 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 22:26:13 INFO  Steps - Entering Password
+2026-07-17 22:26:14 INFO  Steps - Clicking Login Button
+2026-07-17 22:26:21 INFO  Steps - Login Successful
+2026-07-17 22:26:21 INFO  Steps - Opening Configuration Menu
+2026-07-17 22:26:21 INFO  Steps - Configuration Menu Opened
+2026-07-17 22:26:21 INFO  Steps - Opening Countries Page
+2026-07-17 22:26:22 INFO  Steps - Countries Page Opened
+2026-07-17 22:26:22 INFO  Steps - Countries Page Verified
+2026-07-17 22:26:22 INFO  Steps - Closing Browser
+2026-07-17 22:26:22 INFO  Steps - Browser Closed Successfully
+2026-07-17 22:26:22 INFO  Steps - Launching Chrome Browser
+2026-07-17 22:26:23 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 22:26:23 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 22:26:24 INFO  Steps - Login Successful
+2026-07-17 22:26:24 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 22:26:24 INFO  Steps - Entering Password
+2026-07-17 22:26:24 INFO  Steps - Clicking Login Button
+2026-07-17 22:26:27 INFO  Steps - Login Successful
+2026-07-17 22:26:27 INFO  Steps - Opening Configuration Menu
+2026-07-17 22:26:28 INFO  Steps - Configuration Menu Opened
+2026-07-17 22:26:28 INFO  Steps - Opening Countries Page
+2026-07-17 22:26:29 INFO  Steps - Countries Page Opened
+2026-07-17 22:26:29 INFO  Steps - Clicking Add New Country
+2026-07-17 22:26:29 INFO  Steps - Add Country Page Opened
+2026-07-17 22:26:29 INFO  Steps - Add Country Page Verified
+2026-07-17 22:26:30 INFO  Steps - Country Added Successfully
+2026-07-17 22:26:30 INFO  Steps - Closing Browser
+2026-07-17 22:26:31 INFO  Steps - Browser Closed Successfully
+2026-07-17 22:57:19 INFO  Steps - Launching Chrome Browser
+2026-07-17 22:57:22 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 22:57:22 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 22:57:23 INFO  Steps - Login Successful
+2026-07-17 22:57:23 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 22:57:24 INFO  Steps - Entering Password
+2026-07-17 22:57:24 INFO  Steps - Clicking Login Button
+2026-07-17 22:57:27 INFO  Steps - Login Successful
+2026-07-17 22:57:27 INFO  Steps - Opening Configuration Menu
+2026-07-17 22:57:27 INFO  Steps - Configuration Menu Opened
+2026-07-17 22:57:27 INFO  Steps - Opening Tax Menu
+2026-07-17 22:57:48 INFO  Steps - Launching Chrome Browser
+2026-07-17 22:57:49 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 22:57:49 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 22:57:50 INFO  Steps - Login Successful
+2026-07-17 22:57:50 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 22:57:50 INFO  Steps - Entering Password
+2026-07-17 22:57:51 INFO  Steps - Clicking Login Button
+2026-07-17 22:57:54 INFO  Steps - Login Successful
+2026-07-17 22:57:54 INFO  Steps - Opening Configuration Menu
+2026-07-17 22:57:54 INFO  Steps - Configuration Menu Opened
+2026-07-17 22:57:54 INFO  Steps - Opening Tax Menu
+2026-07-17 23:05:37 INFO  Steps - Launching Chrome Browser
+2026-07-17 23:05:38 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 23:05:38 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 23:05:40 INFO  Steps - Login Successful
+2026-07-17 23:05:40 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 23:05:41 INFO  Steps - Entering Password
+2026-07-17 23:05:41 INFO  Steps - Clicking Login Button
+2026-07-17 23:05:44 INFO  Steps - Login Successful
+2026-07-17 23:05:44 INFO  Steps - Opening Configuration Menu
+2026-07-17 23:05:49 INFO  Steps - Configuration Menu Opened
+2026-07-17 23:05:49 INFO  Steps - Opening Tax Categories Page
+2026-07-17 23:05:51 INFO  Steps - Tax Categories Page Opened
+2026-07-17 23:05:51 INFO  Steps - Tax Categories Page Verified
+2026-07-17 23:05:51 INFO  Steps - Closing Browser
+2026-07-17 23:05:51 INFO  Steps - Browser Closed Successfully
+2026-07-17 23:05:51 INFO  Steps - Launching Chrome Browser
+2026-07-17 23:05:52 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 23:05:52 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 23:05:58 INFO  Steps - Login Successful
+2026-07-17 23:05:58 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 23:05:58 INFO  Steps - Entering Password
+2026-07-17 23:05:58 INFO  Steps - Clicking Login Button
+2026-07-17 23:06:05 INFO  Steps - Login Successful
+2026-07-17 23:06:05 INFO  Steps - Opening Configuration Menu
+2026-07-17 23:06:05 INFO  Steps - Configuration Menu Opened
+2026-07-17 23:06:05 INFO  Steps - Opening Tax Categories Page
+2026-07-17 23:06:06 INFO  Steps - Tax Categories Page Opened
+2026-07-17 23:06:07 INFO  Steps - Tax Category Added
+2026-07-17 23:06:07 INFO  Steps - Tax Category Added Successfully
+2026-07-17 23:06:07 INFO  Steps - Closing Browser
+2026-07-17 23:06:07 INFO  Steps - Browser Closed Successfully
+2026-07-17 23:16:37 INFO  Steps - Launching Chrome Browser
+2026-07-17 23:16:39 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 23:16:39 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 23:16:40 INFO  Steps - Login Successful
+2026-07-17 23:16:40 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 23:16:40 INFO  Steps - Entering Password
+2026-07-17 23:16:40 INFO  Steps - Clicking Login Button
+2026-07-17 23:16:43 INFO  Steps - Login Successful
+2026-07-17 23:16:43 INFO  Steps - Opening Configuration Menu
+2026-07-17 23:16:44 INFO  Steps - Configuration Menu Opened
+2026-07-17 23:16:44 INFO  Steps - Opening Email Accounts Page
+2026-07-17 23:16:44 INFO  Steps - Email Accounts Page Opened
+2026-07-17 23:16:44 INFO  Steps - Email Accounts Page Verified
+2026-07-17 23:16:44 INFO  Steps - Closing Browser
+2026-07-17 23:16:44 INFO  Steps - Browser Closed Successfully
+2026-07-17 23:16:45 INFO  Steps - Launching Chrome Browser
+2026-07-17 23:16:45 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 23:16:45 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 23:16:47 INFO  Steps - Login Successful
+2026-07-17 23:16:47 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 23:16:47 INFO  Steps - Entering Password
+2026-07-17 23:16:47 INFO  Steps - Clicking Login Button
+2026-07-17 23:16:50 INFO  Steps - Login Successful
+2026-07-17 23:16:50 INFO  Steps - Opening Configuration Menu
+2026-07-17 23:16:50 INFO  Steps - Configuration Menu Opened
+2026-07-17 23:16:50 INFO  Steps - Opening Email Accounts Page
+2026-07-17 23:16:51 INFO  Steps - Email Accounts Page Opened
+2026-07-17 23:16:51 INFO  Steps - Clicking Add New Email Account
+2026-07-17 23:16:52 INFO  Steps - Add Email Account Page Opened
+2026-07-17 23:16:52 INFO  Steps - Add Email Account Page Verified
+2026-07-17 23:28:07 INFO  Steps - Launching Chrome Browser
+2026-07-17 23:28:10 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 23:28:10 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 23:28:11 INFO  Steps - Login Successful
+2026-07-17 23:28:11 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 23:28:11 INFO  Steps - Entering Password
+2026-07-17 23:28:12 INFO  Steps - Clicking Login Button
+2026-07-17 23:28:19 INFO  Steps - Login Successful
+2026-07-17 23:28:19 INFO  Steps - Opening Configuration Menu
+2026-07-17 23:28:19 INFO  Steps - Configuration Menu Opened
+2026-07-17 23:28:19 INFO  Steps - Opening Email Accounts Page
+2026-07-17 23:28:19 INFO  Steps - Email Accounts Page Opened
+2026-07-17 23:28:19 INFO  Steps - Email Accounts Page Verified
+2026-07-17 23:28:19 INFO  Steps - Closing Browser
+2026-07-17 23:28:20 INFO  Steps - Browser Closed Successfully
+2026-07-17 23:28:20 INFO  Steps - Launching Chrome Browser
+2026-07-17 23:28:20 INFO  Steps - Chrome Browser launched successfully.
+2026-07-17 23:28:20 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-17 23:28:21 INFO  Steps - Login Successful
+2026-07-17 23:28:21 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-17 23:28:22 INFO  Steps - Entering Password
+2026-07-17 23:28:22 INFO  Steps - Clicking Login Button
+2026-07-17 23:28:25 INFO  Steps - Login Successful
+2026-07-17 23:28:25 INFO  Steps - Opening Configuration Menu
+2026-07-17 23:28:25 INFO  Steps - Configuration Menu Opened
+2026-07-17 23:28:25 INFO  Steps - Opening Email Accounts Page
+2026-07-17 23:28:26 INFO  Steps - Email Accounts Page Opened
+2026-07-17 23:28:26 INFO  Steps - Clicking Add New Email Account
+2026-07-17 23:28:26 INFO  Steps - Add Email Account Page Opened
+2026-07-17 23:28:26 INFO  Steps - Add Email Account Page Verified
+2026-07-17 23:28:28 INFO  Steps - Email Account Added Successfully
+2026-07-17 23:28:28 INFO  Steps - Closing Browser
+2026-07-17 23:28:28 INFO  Steps - Browser Closed Successfully
+2026-07-18 22:46:27 INFO  Steps - Launching Chrome Browser
+2026-07-18 22:46:30 INFO  Steps - Chrome Browser launched successfully.
+2026-07-18 22:46:30 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-18 22:46:31 INFO  Steps - Login Successful
+2026-07-18 22:46:31 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-18 22:46:31 INFO  Steps - Entering Password
+2026-07-18 22:46:32 INFO  Steps - Clicking Login Button
+2026-07-18 22:46:36 INFO  Steps - Login Successful
+2026-07-18 22:46:36 INFO  Steps - Opening Configuration Menu
+2026-07-18 22:46:36 INFO  Steps - Configuration Menu Opened
+2026-07-18 22:46:36 INFO  Steps - Launching Chrome Browser
+2026-07-18 22:46:37 INFO  Steps - Chrome Browser launched successfully.
+2026-07-18 22:46:37 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-18 22:46:38 INFO  Steps - Login Successful
+2026-07-18 22:46:38 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-18 22:46:38 INFO  Steps - Entering Password
+2026-07-18 22:46:38 INFO  Steps - Clicking Login Button
+2026-07-18 22:46:42 INFO  Steps - Login Successful
+2026-07-18 22:46:42 INFO  Steps - Opening Configuration Menu
+2026-07-18 22:46:42 INFO  Steps - Configuration Menu Opened
+2026-07-18 22:48:37 INFO  Steps - Launching Chrome Browser
+2026-07-18 22:48:38 INFO  Steps - Chrome Browser launched successfully.
+2026-07-18 22:48:38 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-18 22:48:39 INFO  Steps - Login Successful
+2026-07-18 22:48:39 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-18 22:48:39 INFO  Steps - Entering Password
+2026-07-18 22:48:39 INFO  Steps - Clicking Login Button
+2026-07-18 22:48:43 INFO  Steps - Login Successful
+2026-07-18 22:48:43 INFO  Steps - Opening Configuration Menu
+2026-07-18 22:48:43 INFO  Steps - Configuration Menu Opened
+2026-07-18 22:48:43 INFO  Steps - Launching Chrome Browser
+2026-07-18 22:48:44 INFO  Steps - Chrome Browser launched successfully.
+2026-07-18 22:48:44 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-18 22:48:44 INFO  Steps - Login Successful
+2026-07-18 22:48:45 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-18 22:48:45 INFO  Steps - Entering Password
+2026-07-18 22:48:45 INFO  Steps - Clicking Login Button
+2026-07-18 22:48:48 INFO  Steps - Login Successful
+2026-07-18 22:48:48 INFO  Steps - Opening Configuration Menu
+2026-07-18 22:48:48 INFO  Steps - Configuration Menu Opened
+2026-07-18 22:50:46 INFO  Steps - Launching Chrome Browser
+2026-07-18 22:50:47 INFO  Steps - Chrome Browser launched successfully.
+2026-07-18 22:50:47 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-18 22:50:48 INFO  Steps - Login Successful
+2026-07-18 22:50:48 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-18 22:50:48 INFO  Steps - Entering Password
+2026-07-18 22:50:48 INFO  Steps - Clicking Login Button
+2026-07-18 22:50:52 INFO  Steps - Login Successful
+2026-07-18 22:50:52 INFO  Steps - Opening Configuration Menu
+2026-07-18 22:50:52 INFO  Steps - Configuration Menu Opened
+2026-07-18 22:50:52 INFO  Steps - Opening Shipping Menu
+2026-07-18 22:50:53 INFO  Steps - Shipping Menu Opened
+2026-07-18 22:50:53 INFO  Steps - Opening Shipping Menu
+2026-07-18 22:50:53 INFO  Steps - Shipping Menu Opened
+2026-07-18 22:50:53 INFO  Steps - Opening Warehouses Page
+2026-07-18 22:50:54 INFO  Steps - Warehouses Page Opened
+2026-07-18 22:50:54 INFO  Steps - Warehouses Page Verified
+2026-07-18 22:50:54 INFO  Steps - Closing Browser
+2026-07-18 22:50:54 INFO  Steps - Browser Closed Successfully
+2026-07-18 22:50:54 INFO  Steps - Launching Chrome Browser
+2026-07-18 22:50:55 INFO  Steps - Chrome Browser launched successfully.
+2026-07-18 22:50:55 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-18 22:50:55 INFO  Steps - Login Successful
+2026-07-18 22:50:55 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-18 22:50:55 INFO  Steps - Entering Password
+2026-07-18 22:50:55 INFO  Steps - Clicking Login Button
+2026-07-18 22:50:59 INFO  Steps - Login Successful
+2026-07-18 22:50:59 INFO  Steps - Opening Configuration Menu
+2026-07-18 22:50:59 INFO  Steps - Configuration Menu Opened
+2026-07-18 22:50:59 INFO  Steps - Opening Shipping Menu
+2026-07-18 22:50:59 INFO  Steps - Shipping Menu Opened
+2026-07-18 22:50:59 INFO  Steps - Opening Shipping Menu
+2026-07-18 22:51:00 INFO  Steps - Shipping Menu Opened
+2026-07-18 22:51:00 INFO  Steps - Opening Warehouses Page
+2026-07-18 22:51:00 INFO  Steps - Warehouses Page Opened
+2026-07-18 22:51:00 INFO  Steps - Clicking Add New Warehouse
+2026-07-18 22:51:01 INFO  Steps - Add Warehouse Page Opened
+2026-07-18 22:51:01 INFO  Steps - Add Warehouse Page Verified
+2026-07-18 22:51:03 INFO  Steps - Warehouse Added Successfully
+2026-07-18 22:51:03 INFO  Steps - Closing Browser
+2026-07-18 22:51:03 INFO  Steps - Browser Closed Successfully
+2026-07-19 22:43:36 INFO  Steps - Launching Chrome Browser
+2026-07-19 22:43:42 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 22:43:42 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 22:43:46 INFO  Steps - Login Successful
+2026-07-19 22:43:46 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 22:43:47 INFO  Steps - Entering Password
+2026-07-19 22:43:47 INFO  Steps - Clicking Login Button
+2026-07-19 22:44:01 INFO  Steps - Login Successful
+2026-07-19 22:44:01 INFO  Steps - Opening Content Management Menu
+2026-07-19 22:44:01 INFO  Steps - Content Management Menu Opened
+2026-07-19 22:44:01 INFO  Steps - Opening News Items
+2026-07-19 22:44:02 INFO  Steps - News Items Page Opened
+2026-07-19 22:44:02 INFO  Steps - News Items Page Verified
+2026-07-19 22:44:02 INFO  Steps - Closing Browser
+2026-07-19 22:44:03 INFO  Steps - Browser Closed Successfully
+2026-07-19 22:44:03 INFO  Steps - Launching Chrome Browser
+2026-07-19 22:44:04 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 22:44:04 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 22:44:05 INFO  Steps - Login Successful
+2026-07-19 22:44:05 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 22:44:06 INFO  Steps - Entering Password
+2026-07-19 22:44:06 INFO  Steps - Clicking Login Button
+2026-07-19 22:44:16 INFO  Steps - Login Successful
+2026-07-19 22:44:16 INFO  Steps - Opening Content Management Menu
+2026-07-19 22:44:17 INFO  Steps - Content Management Menu Opened
+2026-07-19 22:44:17 INFO  Steps - Opening News Items
+2026-07-19 22:44:18 INFO  Steps - News Items Page Opened
+2026-07-19 22:44:18 INFO  Steps - Clicking Add New
+2026-07-19 22:44:19 INFO  Steps - Add News Item Page Opened
+2026-07-19 22:44:44 INFO  Steps - Launching Chrome Browser
+2026-07-19 22:44:46 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 22:44:46 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 22:44:47 INFO  Steps - Login Successful
+2026-07-19 22:44:48 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 22:44:48 INFO  Steps - Entering Password
+2026-07-19 22:44:48 INFO  Steps - Clicking Login Button
+2026-07-19 22:44:58 INFO  Steps - Login Successful
+2026-07-19 22:44:58 INFO  Steps - Opening Content Management Menu
+2026-07-19 22:44:58 INFO  Steps - Content Management Menu Opened
+2026-07-19 22:44:58 INFO  Steps - Opening News Items
+2026-07-19 22:44:59 INFO  Steps - News Items Page Opened
+2026-07-19 22:44:59 INFO  Steps - News Items Page Verified
+2026-07-19 22:44:59 INFO  Steps - Closing Browser
+2026-07-19 22:44:59 INFO  Steps - Browser Closed Successfully
+2026-07-19 22:44:59 INFO  Steps - Launching Chrome Browser
+2026-07-19 22:45:01 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 22:45:01 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 22:45:02 INFO  Steps - Login Successful
+2026-07-19 22:45:02 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 22:45:02 INFO  Steps - Entering Password
+2026-07-19 22:45:03 INFO  Steps - Clicking Login Button
+2026-07-19 22:45:12 INFO  Steps - Login Successful
+2026-07-19 22:45:12 INFO  Steps - Opening Content Management Menu
+2026-07-19 22:45:12 INFO  Steps - Content Management Menu Opened
+2026-07-19 22:45:12 INFO  Steps - Opening News Items
+2026-07-19 22:45:13 INFO  Steps - News Items Page Opened
+2026-07-19 22:45:13 INFO  Steps - Clicking Add New
+2026-07-19 22:45:14 INFO  Steps - Add News Item Page Opened
+2026-07-19 22:50:03 INFO  Steps - Launching Chrome Browser
+2026-07-19 22:50:06 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 22:50:06 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 22:50:07 INFO  Steps - Login Successful
+2026-07-19 22:50:07 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 22:50:07 INFO  Steps - Entering Password
+2026-07-19 22:50:08 INFO  Steps - Clicking Login Button
+2026-07-19 22:50:11 INFO  Steps - Login Successful
+2026-07-19 22:50:11 INFO  Steps - Opening Content Management Menu
+2026-07-19 22:50:11 INFO  Steps - Content Management Menu Opened
+2026-07-19 22:50:11 INFO  Steps - Opening News Items
+2026-07-19 22:50:12 INFO  Steps - News Items Page Opened
+2026-07-19 22:50:12 INFO  Steps - News Items Page Verified
+2026-07-19 22:50:12 INFO  Steps - Closing Browser
+2026-07-19 22:50:13 INFO  Steps - Browser Closed Successfully
+2026-07-19 22:50:13 INFO  Steps - Launching Chrome Browser
+2026-07-19 22:50:14 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 22:50:14 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 22:50:15 INFO  Steps - Login Successful
+2026-07-19 22:50:15 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 22:50:15 INFO  Steps - Entering Password
+2026-07-19 22:50:15 INFO  Steps - Clicking Login Button
+2026-07-19 22:50:19 INFO  Steps - Login Successful
+2026-07-19 22:50:19 INFO  Steps - Opening Content Management Menu
+2026-07-19 22:50:19 INFO  Steps - Content Management Menu Opened
+2026-07-19 22:50:19 INFO  Steps - Opening News Items
+2026-07-19 22:50:20 INFO  Steps - News Items Page Opened
+2026-07-19 22:50:20 INFO  Steps - Clicking Add New
+2026-07-19 22:50:20 INFO  Steps - Add News Item Page Opened
+2026-07-19 22:50:20 INFO  Steps - Add News Item Page Verified
+2026-07-19 22:50:21 INFO  Steps - News Item Details Entered
+2026-07-19 22:50:21 INFO  Steps - Saving News Item
+2026-07-19 22:50:22 INFO  Steps - News Item Saved
+2026-07-19 22:50:22 INFO  Steps - News Item Added Successfully
+2026-07-19 22:50:22 INFO  Steps - Closing Browser
+2026-07-19 22:50:22 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:08:39 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:08:42 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:08:42 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:08:45 INFO  Steps - Login Successful
+2026-07-19 23:08:45 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:08:45 INFO  Steps - Entering Password
+2026-07-19 23:08:45 INFO  Steps - Clicking Login Button
+2026-07-19 23:08:49 INFO  Steps - Login Successful
+2026-07-19 23:08:49 INFO  Steps - Opening Content Management Menu
+2026-07-19 23:08:50 INFO  Steps - Content Management Menu Opened
+2026-07-19 23:08:50 INFO  Steps - Opening Message Templates
+2026-07-19 23:08:51 INFO  Steps - Message Templates Page Opened
+2026-07-19 23:08:51 INFO  Steps - Message Templates Page Verified
+2026-07-19 23:08:51 INFO  Steps - Closing Browser
+2026-07-19 23:08:51 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:08:51 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:08:52 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:08:52 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:08:53 INFO  Steps - Login Successful
+2026-07-19 23:08:53 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:08:53 INFO  Steps - Entering Password
+2026-07-19 23:08:54 INFO  Steps - Clicking Login Button
+2026-07-19 23:08:57 INFO  Steps - Login Successful
+2026-07-19 23:08:57 INFO  Steps - Opening Content Management Menu
+2026-07-19 23:08:57 INFO  Steps - Content Management Menu Opened
+2026-07-19 23:08:57 INFO  Steps - Opening Message Templates
+2026-07-19 23:08:58 INFO  Steps - Message Templates Page Opened
+2026-07-19 23:08:58 INFO  Steps - Searching Template : Customer.PasswordRecovery
+2026-07-19 23:08:59 INFO  Steps - Search Completed
+2026-07-19 23:08:59 INFO  Steps - Template Displayed
+2026-07-19 23:08:59 INFO  Steps - Closing Browser
+2026-07-19 23:08:59 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:08:59 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:09:00 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:09:00 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:09:01 INFO  Steps - Login Successful
+2026-07-19 23:09:01 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:09:02 INFO  Steps - Entering Password
+2026-07-19 23:09:02 INFO  Steps - Clicking Login Button
+2026-07-19 23:09:05 INFO  Steps - Login Successful
+2026-07-19 23:09:05 INFO  Steps - Opening Content Management Menu
+2026-07-19 23:09:06 INFO  Steps - Content Management Menu Opened
+2026-07-19 23:09:06 INFO  Steps - Opening Message Templates
+2026-07-19 23:09:06 INFO  Steps - Message Templates Page Opened
+2026-07-19 23:09:06 INFO  Steps - Searching Template : Customer.PasswordRecovery
+2026-07-19 23:09:07 INFO  Steps - Search Completed
+2026-07-19 23:09:07 INFO  Steps - Opening Edit Page
+2026-07-19 23:09:08 INFO  Steps - Edit Page Opened
+2026-07-19 23:09:08 INFO  Steps - Edit Message Template Page Verified
+2026-07-19 23:09:08 INFO  Steps - Subject Updated
+2026-07-19 23:09:08 INFO  Steps - Saving Template
+2026-07-19 23:09:09 INFO  Steps - Template Saved
+2026-07-19 23:09:09 INFO  Steps - Message Template Updated Successfully
+2026-07-19 23:09:09 INFO  Steps - Closing Browser
+2026-07-19 23:09:09 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:34:45 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:34:47 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:34:47 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:34:49 INFO  Steps - Login Successful
+2026-07-19 23:34:50 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:34:50 INFO  Steps - Entering Password
+2026-07-19 23:34:50 INFO  Steps - Clicking Login Button
+2026-07-19 23:34:54 INFO  Steps - Login Successful
+2026-07-19 23:34:54 INFO  Steps - Opening Promotions Menu
+2026-07-19 23:35:04 INFO  Steps - Promotions Menu Opened
+2026-07-19 23:35:04 INFO  Steps - Opening Discounts Page
+2026-07-19 23:35:05 INFO  Steps - Discounts Page Opened
+2026-07-19 23:35:05 INFO  Steps - Discounts Page Verified
+2026-07-19 23:35:05 INFO  Steps - Closing Browser
+2026-07-19 23:35:05 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:35:05 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:35:06 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:35:06 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:35:08 INFO  Steps - Login Successful
+2026-07-19 23:35:08 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:35:08 INFO  Steps - Entering Password
+2026-07-19 23:35:08 INFO  Steps - Clicking Login Button
+2026-07-19 23:35:11 INFO  Steps - Login Successful
+2026-07-19 23:35:11 INFO  Steps - Opening Promotions Menu
+2026-07-19 23:35:12 INFO  Steps - Promotions Menu Opened
+2026-07-19 23:35:12 INFO  Steps - Opening Discounts Page
+2026-07-19 23:35:12 INFO  Steps - Discounts Page Opened
+2026-07-19 23:35:12 INFO  Steps - Clicking Add New Discount
+2026-07-19 23:35:13 INFO  Steps - Add Discount Page Opened
+2026-07-19 23:38:23 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:38:25 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:38:25 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:38:27 INFO  Steps - Login Successful
+2026-07-19 23:38:27 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:38:27 INFO  Steps - Entering Password
+2026-07-19 23:38:27 INFO  Steps - Clicking Login Button
+2026-07-19 23:38:31 INFO  Steps - Login Successful
+2026-07-19 23:38:31 INFO  Steps - Opening Promotions Menu
+2026-07-19 23:38:31 INFO  Steps - Promotions Menu Opened
+2026-07-19 23:38:31 INFO  Steps - Opening Discounts Page
+2026-07-19 23:38:32 INFO  Steps - Discounts Page Opened
+2026-07-19 23:38:32 INFO  Steps - Discounts Page Verified
+2026-07-19 23:38:32 INFO  Steps - Closing Browser
+2026-07-19 23:38:32 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:38:32 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:38:33 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:38:33 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:38:35 INFO  Steps - Login Successful
+2026-07-19 23:38:35 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:38:35 INFO  Steps - Entering Password
+2026-07-19 23:38:35 INFO  Steps - Clicking Login Button
+2026-07-19 23:38:40 INFO  Steps - Login Successful
+2026-07-19 23:38:40 INFO  Steps - Opening Promotions Menu
+2026-07-19 23:38:40 INFO  Steps - Promotions Menu Opened
+2026-07-19 23:38:40 INFO  Steps - Opening Discounts Page
+2026-07-19 23:38:41 INFO  Steps - Discounts Page Opened
+2026-07-19 23:38:41 INFO  Steps - Clicking Add New Discount
+2026-07-19 23:38:42 INFO  Steps - Add Discount Page Opened
+2026-07-19 23:38:42 INFO  Steps - Current Title : Add a new discount / nopCommerce administration
+2026-07-19 23:38:42 INFO  Steps - Discount Details Entered
+2026-07-19 23:38:42 INFO  Steps - Saving Discount
+2026-07-19 23:38:43 INFO  Steps - Discount Saved
+2026-07-19 23:38:43 INFO  Steps - Discount Added Successfully
+2026-07-19 23:38:43 INFO  Steps - Closing Browser
+2026-07-19 23:38:43 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:58:58 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:59:02 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:59:02 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:59:06 INFO  Steps - Login Successful
+2026-07-19 23:59:06 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:59:06 INFO  Steps - Entering Password
+2026-07-19 23:59:06 INFO  Steps - Clicking Login Button
+2026-07-19 23:59:15 INFO  Steps - Login Successful
+2026-07-19 23:59:15 INFO  Steps - Opening Sales Menu
+2026-07-19 23:59:16 INFO  Steps - Sales Menu Opened
+2026-07-19 23:59:16 INFO  Steps - Opening Gift Cards
+2026-07-19 23:59:17 INFO  Steps - Gift Cards Page Opened
+2026-07-19 23:59:17 INFO  Steps - Gift Cards Page Verified
+2026-07-19 23:59:17 INFO  Steps - Closing Browser
+2026-07-19 23:59:17 INFO  Steps - Browser Closed Successfully
+2026-07-19 23:59:17 INFO  Steps - Launching Chrome Browser
+2026-07-19 23:59:18 INFO  Steps - Chrome Browser launched successfully.
+2026-07-19 23:59:18 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-19 23:59:20 INFO  Steps - Login Successful
+2026-07-19 23:59:20 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-19 23:59:20 INFO  Steps - Entering Password
+2026-07-19 23:59:21 INFO  Steps - Clicking Login Button
+2026-07-19 23:59:24 INFO  Steps - Login Successful
+2026-07-19 23:59:24 INFO  Steps - Opening Sales Menu
+2026-07-19 23:59:24 INFO  Steps - Sales Menu Opened
+2026-07-19 23:59:24 INFO  Steps - Opening Gift Cards
+2026-07-19 23:59:26 INFO  Steps - Gift Cards Page Opened
+2026-07-19 23:59:26 INFO  Steps - Clicking Add New Gift Card
+2026-07-19 23:59:26 INFO  Steps - Add Gift Card Page Opened
+2026-07-19 23:59:26 INFO  Steps - Add Gift Card Page Verified
+2026-07-19 23:59:28 INFO  Steps - Gift Card Details Entered
+2026-07-19 23:59:28 INFO  Steps - Saving Gift Card
+2026-07-19 23:59:28 INFO  Steps - Gift Card Saved
+2026-07-19 23:59:29 INFO  Steps - Gift Card Added Successfully
+2026-07-19 23:59:29 INFO  Steps - Closing Browser
+2026-07-19 23:59:29 INFO  Steps - Browser Closed Successfully
