@@ -32,37 +32,32 @@ pipeline {
                 bat 'mvn test'
             }
         }
-
-
     }
 
     post {
 
-    always {
+        always {
 
-        archiveArtifacts artifacts: 'target/**/*', fingerprint: true
+            archiveArtifacts artifacts: 'target/**/*', fingerprint: true
 
-        publishHTML(target: [
-            allowMissing: true,
-            alwaysLinkToLastBuild: true,
-            keepAll: true,
-            reportDir: 'target/extent-report',
-            reportFiles: 'AutomationExecutionReport.html'
-            reportName: 'Automation Execution Dashboard'
-        ])
+            publishHTML(target: [
+                allowMissing: true,
+                alwaysLinkToLastBuild: true,
+                keepAll: true,
+                reportDir: 'target/extent-report',
+                reportFiles: 'AutomationExecutionReport.html',
+                reportName: 'Automation Execution Dashboard'
+            ])
 
-        echo 'Pipeline Finished'
+            echo 'Pipeline Finished'
+        }
+
+        success {
+            echo 'Automation Test Execution Successful'
+        }
+
+        failure {
+            echo 'Automation Test Execution Failed'
+        }
     }
-
-    success {
-        echo 'Automation Test Execution Successful'
-    }
-
-    failure {
-        echo 'Automation Test Execution Failed'
-    }
-}
-    
-    
-
 }
