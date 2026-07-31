@@ -7,11 +7,12 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = ".//Features/GiftCard.feature",
+        features = ".//Features",
         glue = {
                 "stepDefination",
                 "hooks"
         },
+        		//tags = "@Smoke",
         monochrome = true,
         dryRun = false,
         plugin = {
