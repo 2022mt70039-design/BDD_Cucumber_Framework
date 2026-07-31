@@ -2730,3 +2730,39 @@
 2026-07-19 23:59:29 INFO  Steps - Gift Card Added Successfully
 2026-07-19 23:59:29 INFO  Steps - Closing Browser
 2026-07-19 23:59:29 INFO  Steps - Browser Closed Successfully
+2026-07-31 16:00:41 INFO  Steps - Launching Chrome Browser
+2026-07-31 16:00:48 INFO  Steps - Chrome Browser launched successfully.
+2026-07-31 16:00:48 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-31 16:00:49 INFO  Steps - Login Successful
+2026-07-31 16:00:49 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-31 16:00:49 INFO  Steps - Entering Password
+2026-07-31 16:00:49 INFO  Steps - Clicking Login Button
+2026-07-31 16:00:53 INFO  Steps - Login Successful
+2026-07-31 16:00:53 INFO  Steps - Opening Sales Menu
+2026-07-31 16:00:54 INFO  Steps - Sales Menu Opened
+2026-07-31 16:00:54 INFO  Steps - Opening Gift Cards
+2026-07-31 16:00:55 INFO  Steps - Gift Cards Page Opened
+2026-07-31 16:00:55 INFO  Steps - Gift Cards Page Verified
+2026-07-31 16:00:55 INFO  Steps - Closing Browser
+2026-07-31 16:00:55 INFO  Steps - Browser Closed Successfully
+2026-07-31 16:00:55 INFO  Steps - Launching Chrome Browser
+2026-07-31 16:00:56 INFO  Steps - Chrome Browser launched successfully.
+2026-07-31 16:00:56 INFO  Steps - Opening URL : http://localhost:5000/admin
+2026-07-31 16:00:56 INFO  Steps - Login Successful
+2026-07-31 16:00:56 INFO  Steps - Entering Username : admin@yourstore.com
+2026-07-31 16:00:56 INFO  Steps - Entering Password
+2026-07-31 16:00:56 INFO  Steps - Clicking Login Button
+2026-07-31 16:01:00 INFO  Steps - Login Successful
+2026-07-31 16:01:00 INFO  Steps - Opening Sales Menu
+2026-07-31 16:01:00 INFO  Steps - Sales Menu Opened
+2026-07-31 16:01:00 INFO  Steps - Opening Gift Cards
+2026-07-31 16:01:01 INFO  Steps - Gift Cards Page Opened
+2026-07-31 16:01:01 INFO  Steps - Clicking Add New Gift Card
+2026-07-31 16:01:01 INFO  Steps - Add Gift Card Page Opened
+2026-07-31 16:01:01 INFO  Steps - Add Gift Card Page Verified
+2026-07-31 16:01:03 INFO  Steps - Gift Card Details Entered
+2026-07-31 16:01:03 INFO  Steps - Saving Gift Card
+2026-07-31 16:01:04 INFO  Steps - Gift Card Saved
+2026-07-31 16:01:04 INFO  Steps - Gift Card Added Successfully
+2026-07-31 16:01:04 INFO  Steps - Closing Browser
+2026-07-31 16:01:04 INFO  Steps - Browser Closed Successfully

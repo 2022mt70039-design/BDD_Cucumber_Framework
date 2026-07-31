@@ -33,28 +33,36 @@ pipeline {
             }
         }
 
-        stage('Archive Test Reports') {
-            steps {
-                archiveArtifacts artifacts: 'target/**/*', fingerprint: true
-            }
-        }
 
     }
 
     post {
 
-        success {
-            echo 'Automation Test Execution Successful'
-        }
+    always {
 
-        failure {
-            echo 'Automation Test Execution Failed'
-        }
+        archiveArtifacts artifacts: 'target/**/*', fingerprint: true
 
-        always {
-            echo 'Pipeline Finished'
-        }
+        publishHTML(target: [
+            allowMissing: true,
+            alwaysLinkToLastBuild: true,
+            keepAll: true,
+            reportDir: 'target/extent-report',
+            reportFiles: 'AutomationExecutionReport.html'
+            reportName: 'Automation Execution Dashboard'
+        ])
 
+        echo 'Pipeline Finished'
     }
+
+    success {
+        echo 'Automation Test Execution Successful'
+    }
+
+    failure {
+        echo 'Automation Test Execution Failed'
+    }
+}
+    
+    
 
 }
