@@ -72,7 +72,7 @@ public class BaseClass {
     public MessageTemplatePage messageTemplatePage;
     public GiftCardPage giftCardPage;
     public DiscountPage discountPage;
-
+    String checkoutAttributeName="AutomationCheckout";
     // created to generate random values
     public static String randomstring() {
         return RandomStringUtils.randomAlphabetic(5);

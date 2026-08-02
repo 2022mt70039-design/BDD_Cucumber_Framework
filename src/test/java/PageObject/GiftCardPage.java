@@ -57,6 +57,19 @@ public class GiftCardPage {
 
     private String txtMessage =
             "//textarea[@id='Message']";
+  //================ Edit/Delete =================//
+
+    private String firstEditButton =
+            "//*[@id='giftcards-grid']//tbody//tr[1]//a[contains(@href,'Edit')]";
+
+    private String btnDelete =
+            "//*[@id='giftcard-delete']";
+
+    private String btnConfirmDelete =
+            "//button[@type='submit' and contains(text(),'Delete')]";
+
+    private String deleteMessage =
+            "//span[contains(text(),'deleted successfully')]";
 
     //Actions
 
@@ -111,6 +124,28 @@ public class GiftCardPage {
 
     public void clickSave() {
         elementUtil.click(btnSave);
+    }
+    
+  //================ Edit/Delete =================//
+
+    public void clickFirstEditButton() {
+
+        elementUtil.click(firstEditButton);
+    }
+
+    public void clickDelete() {
+
+        elementUtil.click(btnDelete);
+    }
+
+    public void clickConfirmDelete() {
+
+        elementUtil.click(btnConfirmDelete);
+    }
+
+    public String getDeleteMessage() {
+
+        return elementUtil.getText(deleteMessage);
     }
 
 }

@@ -26,3 +26,27 @@ When User enters Discount details
 And Click on Save Discount
 Then Discount should be added successfully
 And close browser
+
+@Smoke @Regression
+Scenario: Edit Discount
+
+When User click on Promotions menu
+And User click on Discounts menu
+And User select Discount
+Then User should view Edit Discount page
+When User edit Discount details
+And Click on Update Discount
+Then Discount should be updated successfully
+And close browser
+
+
+@Smoke @Regression
+Scenario: Delete Discount
+
+When User click on Promotions menu
+And User click on Discounts menu
+And User select Discount
+And User delete Discount
+And User confirm Discount deletion
+Then Discount should be deleted successfully
+And close browser

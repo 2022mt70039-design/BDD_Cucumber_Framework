@@ -24,3 +24,22 @@ Feature: Country
     And Click on Save Country
     Then Country should be added successfully
     And close browser
+    
+    @Smoke @Regression
+Scenario: Edit Country
+    When User click on Configuration menu
+    And User click on Countries menu
+    And User edit Country
+    And User update Country details
+    And Click on Save Country
+    Then Country should be updated successfully
+    And close browser
+
+
+@Smoke @Regression
+Scenario: Delete Country
+    When User click on Configuration menu
+    And User click on Countries menu
+    And User delete Country
+    Then Country should be deleted successfully
+    And close browser

@@ -90,5 +90,10 @@ public class ElementUtil {
         return getElement(locator).isSelected();
     }
     
+    public void waitForVisible(String xpath) {
+
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));
+    }
+    
 
 }

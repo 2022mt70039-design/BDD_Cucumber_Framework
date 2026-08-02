@@ -26,3 +26,15 @@ When User enters Gift Card details
 And Click on Save Gift Card
 Then Gift Card should be added successfully
 And close browser
+
+@Smoke @Regression
+Scenario: Delete Gift Card
+
+    When User click on Sales menu
+    And User click on Gift Cards menu
+    And User select Gift Card
+    Then User should view Edit Gift Card page
+    When User delete Gift Card
+    And User confirm Gift Card deletion
+    Then Gift Card should be deleted successfully
+    And close browser

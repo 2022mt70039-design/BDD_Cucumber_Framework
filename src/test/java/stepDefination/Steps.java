@@ -1258,6 +1258,58 @@ public class Steps extends BaseClass {
 	        logger.info("Country Added Successfully");
 	    }
 	    
+	 // EDIT COUNTRY
+
+	    @When("User edit Country")
+	    public void user_edit_country() {
+
+	        logger.info("Editing Country");
+
+	        countryPage.clickFirstEditButton();
+	    }
+
+	    @When("User update Country details")
+	    public void user_update_country_details() {
+
+	        String random = RandomStringUtils.randomAlphabetic(4);
+
+	        countryPage.setCountryName("Updated Country " + random);
+	    }
+
+	    @Then("Country should be updated successfully")
+	    public void country_should_be_updated_successfully() {
+
+	        Assert.assertTrue(
+	                countryPage.getUpdateMessage()
+	                        .contains("updated successfully"));
+
+	        logger.info("Country Updated Successfully");
+	    }
+
+
+	    // DELETE COUNTRY
+
+	    @When("User delete Country")
+	    public void user_delete_country() {
+
+	        logger.info("Deleting Country");
+
+	        countryPage.clickFirstEditButton();
+
+	        countryPage.clickDeleteButton();
+
+	        countryPage.confirmDelete();
+	    }
+
+	    @Then("Country should be deleted successfully")
+	    public void country_should_be_deleted_successfully() {
+
+	        Assert.assertTrue(
+	                countryPage.getDeleteMessage()
+	                        .contains("deleted successfully"));
+
+	        logger.info("Country Deleted Successfully");
+	    }
 	   
 	    
 	    @When("User click on Tax Categories menu")
@@ -1721,6 +1773,82 @@ public class Steps extends BaseClass {
 	        logger.info("Discount Added Successfully");
 	    }
 	    
+	    @When("User select Discount")
+	    public void user_select_discount() {
+
+	        logger.info("Opening first Discount");
+
+	        discountPage.clickFirstEditButton();
+
+	        logger.info("Discount Edit Page Opened");
+	    }
+
+	    @Then("User should view Edit Discount page")
+	    public void user_should_view_edit_discount_page() {
+
+	        Assert.assertTrue(driver.getTitle().contains("Edit discount"));
+
+	        logger.info("Edit Discount Page Verified");
+	    }
+
+	    @When("User edit Discount details")
+	    public void user_edit_discount_details() {
+
+	        String random = RandomStringUtils.randomAlphabetic(4);
+
+	        discountPage.updateDiscountName("Updated Discount " + random);
+
+	        logger.info("Discount Updated");
+	    }
+
+	    @When("Click on Update Discount")
+	    public void click_on_update_discount() {
+
+	        discountPage.clickSave();
+	    }
+
+	    @Then("Discount should be updated successfully")
+	    public void discount_should_be_updated_successfully() {
+
+	        Assert.assertTrue(
+
+	                discountPage.getUpdateMessage()
+	                        .contains("updated successfully")
+
+	        );
+
+	        logger.info("Discount Updated Successfully");
+	    }
+
+	    @When("User delete Discount")
+	    public void user_delete_discount() {
+
+	        discountPage.clickDelete();
+
+	        logger.info("Delete Clicked");
+	    }
+
+	    @When("User confirm Discount deletion")
+	    public void user_confirm_discount_deletion() {
+
+	        discountPage.clickConfirmDelete();
+
+	        logger.info("Delete Confirmed");
+	    }
+
+	    @Then("Discount should be deleted successfully")
+	    public void discount_should_be_deleted_successfully() {
+
+	        Assert.assertTrue(
+
+	                discountPage.getDeleteMessage()
+	                        .contains("deleted successfully")
+
+	        );
+
+	        logger.info("Discount Deleted Successfully");
+	    }
+	    
 	    @When("User click on Sales menu")
 	    public void user_click_on_sales_menu() {
 
@@ -1811,4 +1939,274 @@ public class Steps extends BaseClass {
 
 	        logger.info("Gift Card Added Successfully");
 	    }
+	    
+	    @When("User select Gift Card")
+	    public void user_select_gift_card() {
+
+	        logger.info("Opening first Gift Card");
+
+	        giftCardPage.clickFirstEditButton();
+
+	        logger.info("Gift Card Edit Page Opened");
+	    }
+
+	    @Then("User should view Edit Gift Card page")
+	    public void user_should_view_edit_gift_card_page() {
+
+	        Assert.assertTrue(driver.getTitle().contains("Edit gift card"));
+
+	        logger.info("Edit Gift Card Page Verified");
+	    }
+
+	    @When("User delete Gift Card")
+	    public void user_delete_gift_card() {
+
+	        giftCardPage.clickDelete();
+
+	        logger.info("Delete Clicked");
+	    }
+
+	    @When("User confirm Gift Card deletion")
+	    public void user_confirm_gift_card_deletion() {
+
+	        giftCardPage.clickConfirmDelete();
+
+	        logger.info("Delete Confirmed");
+	    }
+
+	    @Then("Gift Card should be deleted successfully")
+	    public void gift_card_should_be_deleted_successfully() {
+
+	        Assert.assertTrue(
+
+	                giftCardPage.getDeleteMessage()
+	                        .contains("deleted successfully")
+
+	        );
+
+	        logger.info("Gift Card Deleted Successfully");
+	    }
+	    
+	    @When("User click Add New Product Attribute")
+	    public void user_click_add_new_product_attribute() {
+
+	        logger.info("Opening Add Product Attribute Page");
+
+	        productAttributePage.clickAddNewButton();
+
+	        logger.info("Add Product Attribute Page Opened");
+	    }
+	    
+	    @When("User enters Product Attribute details")
+	    public void user_enters_product_attribute_details() {
+
+	        productAttributeName = "Automation_" + System.currentTimeMillis();
+
+	        productAttributePage.enterAttributeName(productAttributeName);
+
+	        productAttributePage.enterDescription("Automation Product Attribute");
+
+	        logger.info("Product Attribute Details Entered");
+	    }
+	    
+	    @When("Click on Save Product Attribute")
+	    public void click_on_save_product_attribute() {
+
+	        logger.info("Saving Product Attribute");
+
+	        productAttributePage.clickSaveButton();
+
+	        logger.info("Product Attribute Saved");
+	    }
+	    
+	    @Then("Product Attribute should be added successfully")
+	    public void product_attribute_should_be_added_successfully() {
+
+	        String actualMessage = productAttributePage.getSuccessMessage();
+
+	        System.out.println("Actual Success Message: " + actualMessage);
+
+	        logger.info("Actual Success Message: " + actualMessage);
+
+	        Assert.assertTrue(
+	                actualMessage.toLowerCase().contains("added successfully")
+	        );
+
+	        logger.info("Product Attribute Added Successfully");
+	    }
+	    
+	    @When("User search Product Attribute")
+	    public void user_search_product_attribute() {
+
+	        logger.info("Searching Product Attribute");
+
+	        productAttributePage.searchProductAttribute(productAttributeName);
+
+	        logger.info("Search Completed");
+	    }
+	    
+	    @Then("Product Attribute should be displayed")
+	    public void product_attribute_should_be_displayed() {
+
+	        Assert.assertEquals(
+
+	                productAttributeName,
+
+	                productAttributePage.getFirstRowProductAttributeName()
+
+	        );
+
+	        logger.info("Product Attribute Displayed Successfully");
+	    }
+	    
+	    @When("User edit Product Attribute")
+	    public void user_edit_product_attribute() {
+
+	        logger.info("Editing Product Attribute");
+
+	        productAttributePage.clickFirstEditButton();
+
+	        productAttributeName = productAttributeName + "_Updated";
+
+	        productAttributePage.updateProductAttributeName(productAttributeName);
+
+	        productAttributePage.clickSaveButton();
+
+	        logger.info("Product Attribute Updated");
+	    }
+	    
+	    @Then("Product Attribute should be updated successfully")
+	    public void product_attribute_should_be_updated_successfully() {
+
+	        String actualMessage = productAttributePage.getUpdateMessage();
+
+	        System.out.println("Actual Update Message: " + actualMessage);
+
+	        logger.info("Actual Update Message: " + actualMessage);
+
+	        Assert.assertTrue(
+	                actualMessage.toLowerCase().contains("updated successfully")
+	        );
+
+	        logger.info("Product Attribute Updated Successfully");
+	    }
+	    
+	    @When("User select Product Attribute")
+	    public void user_select_product_attribute() {
+
+	        productAttributePage.selectFirstRowCheckbox();
+
+	        logger.info("Product Attribute Selected");
+	    }
+	    
+	    @When("User click Delete Selected")
+	    public void user_click_delete_selected() {
+
+	        productAttributePage.clickDeleteSelected();
+
+	        logger.info("Delete Selected Clicked");
+	    }
+	    
+	    @When("User confirm Product Attribute deletion")
+	    public void user_confirm_product_attribute_deletion() throws InterruptedException {
+
+	        logger.info("Confirming Delete");
+
+	        productAttributePage.clickConfirmDelete();
+
+	        Thread.sleep(5000);
+
+	        logger.info("Delete Confirmed");
+	    }
+	    
+	    @Then("Product Attribute should be deleted successfully")
+	    public void product_attribute_should_be_deleted_successfully() {
+
+	        logger.info("Verifying Product Attribute Deletion");
+
+	        Assert.assertTrue(productAttributePage.isProductAttributeDeleted());
+
+	        logger.info("Product Attribute Deleted Successfully");
+	    }
+	    
+	    @When("User click Add New Checkout Attribute")
+	    public void user_click_add_new_checkout_attribute() {
+
+	        checkoutAttributePage.clickAddNew();
+	    }
+
+	    @When("User enters Checkout Attribute details")
+	    public void user_enters_checkout_attribute_details() {
+
+	        checkoutAttributePage.enterName("CheckoutAttribute");
+
+	        checkoutAttributePage.selectTextboxControl();
+
+	        checkoutAttributePage.clickRequired();
+
+	        checkoutAttributePage.enterDisplayOrder("1");
+	    }
+
+	    @When("Click on Save Checkout Attribute")
+	    public void click_on_save_checkout_attribute() {
+
+	        checkoutAttributePage.clickSave();
+	    }
+
+	    @Then("Checkout Attribute should be added successfully")
+	    public void checkout_attribute_should_be_added_successfully() {
+
+	        Assert.assertTrue(
+
+	                checkoutAttributePage.getAddSuccessMessage()
+	                        .contains("added successfully"));
+
+	    }
+	    
+	    @When("User edit Checkout Attribute")
+	    public void user_edit_checkout_attribute() {
+
+	        checkoutAttributePage.clickFirstEdit();
+
+	        checkoutAttributePage.updateName("CheckoutAttribute Updated");
+
+	        checkoutAttributePage.clickSave();
+	    }
+
+	    @Then("Checkout Attribute should be updated successfully")
+	    public void checkout_attribute_should_be_updated_successfully() {
+
+	        Assert.assertTrue(
+
+	                checkoutAttributePage.getUpdateSuccessMessage()
+	                        .contains("updated successfully"));
+
+	    }
+	    
+	    @When("User select Checkout Attribute")
+	    public void user_select_checkout_attribute() {
+
+	        checkoutAttributePage.selectFirstRow();
+	    }
+
+	    @When("User click Delete Selected Checkout Attribute")
+	    public void user_click_delete_selected_checkout_attribute() {
+
+	        checkoutAttributePage.clickDeleteSelected();
+	    }
+
+	    @When("User confirm Checkout Attribute deletion")
+	    public void user_confirm_checkout_attribute_deletion() {
+
+	        checkoutAttributePage.confirmDelete();
+	    }
+
+	    @Then("Checkout Attribute should be deleted successfully")
+	    public void checkout_attribute_should_be_deleted_successfully() {
+
+	        Assert.assertTrue(checkoutAttributePage.isDeleted());
+
+	    }
+	    
+
 }
